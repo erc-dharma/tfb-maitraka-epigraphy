@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>title of document</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority></authority>
+                <idno type="filename"></idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>museum/archive</repository>
+                        <idno>inventory number</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>description of object/monument (likely to include <material/>
+                                    and <objectType/> information, <dimensions/>, etc.)</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>description of text field/campus</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>description of letters, possibly including <height>letter-heights</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Place of origin</origPlace>
+                            <origDate>Date of origin</origDate>
+                        </origin>
+                        <provenance type="found"> Findspot and circumstances/context
+                        </provenance>
+                        <provenance type="observed">Modern location(s) (if different from repository, above)
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+<revisionDesc>
+            <change when="2019-09-19" who="#AG #EB #KC">Initial encoding.</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="photograph of text or monument"/>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+<pb n="2r"/>
+<p>
+<lb n="1"/>rṇṇavakṣitisaritparvvatasthitisamak[ā]līnaṁ putrapotrānvayabhojyaṁ bali<lb n="2" break="no"/>caruvaiśvadevādyānāṁ kriyāṇāṁ samutsarppaṇārtthaṁ siṁhapuravāstavyabrāhmaṇarogghamitrāya
+<lb n="3"/>vrajagaṇasagotrāya cchandogasabrahmacāriṇe brahmadāyaṁ nisṛṣṭaṁ yato syocitayā brahma<lb n="4" break="no"/>deyasthityā bhuṁjataḥ kṛṣataḥ pradiśataẖ karṣāpayataś ca na kaiścit svalpāpy ābādhā vicāraṇā vā 
+<lb n="5"/>kāryyāsmadvaṁśajair āgu{ṁ}minṛpatibhiś cānityāny aiśvaryyā[ṇ]y asthiraṁ mānuṣyaṁ cāvekṣya sāmānyaṁ ca
+<lb n="6"/>bhūmidānaphalam avagacchadbhir ayam asmaddāyo numantavyo yaś cācchindyād ācchidyamānaṁ vanumodeT
+<lb n="7"/>sa pañcābhir mmahāpātakais sopapātakais saṁyuktas syād api cātra vyāsagīto śloko
+<lb n="8"/>bhavataḥ [/*] </p>
+<lg n="I" met="anuṣṭubh">
+	<l n="a">ṣaṣṭiṁ varṣasahasrāṇi </l>
+	<l n="b">svargge modati bhūmidaḥ</l>
+	<l n="c">Ā<!-- Annette: transliteration was ā  -->cchettā cānumantā ca</l> 
+	<l n="d">tāny eva narake <lb n="9"/> vaseT</l>
+</lg>
+<lg n="II" met="anuṣṭubh">
+	<l n="a">svadattāṁ paradattā[ṁ*] {v}vā</l>
+	<l n="b">yo hareta vasundharāṁ</l> 
+	<l n="c">gavāṁ śatasahasrasya</l> 
+	<l n="d">hantu[ḥ*] prāpnoti <lb n="10"/>kilbiṣam iti ||<!-- Annette: transliteration was //  --></l> </lg>
+ <p>svahasto mama mahārājadhruvasenasya dūtakaḥ pratīhāramammakaḥ
+<lb n="11"/>likhitaṁ kikkakena saṁ <num value="206"><g type="numeral">200</g> 6</num> Ā<!-- Annette: transliteration was ā  -->śvayuja śu <num value="3">3</num></p>
+
+                
+            </div>
+            <div type="apparatus">
+                <p>external apparatus criticus (if applicable)</p>
+            </div>
+            <div type="translation">
+                <p>translation(s)</p>
+            </div>
+            <div type="commentary">
+                <p>commentary</p>
+            </div>
+            <div type="bibliography">
+                <p>bibliography of previous editions, discussion, etc.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

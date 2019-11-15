@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>title of document</title>
+      </titleStmt>
+      <publicationStmt>
+        <authority></authority>
+        <idno type="filename"></idno>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <repository>museum/archive</repository>
+            <idno>inventory number</idno>
+          </msIdentifier>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>description of object/monument (likely to include <material/>
+                and <objectType/> information, <dimensions/>, etc.)</support>
+              </supportDesc>
+              <layoutDesc>
+                <layout>description of text field/campus</layout>
+              </layoutDesc>
+            </objectDesc>
+            <handDesc>
+              <handNote>description of letters, possibly including <height>letter-heights</height>
+              </handNote>
+            </handDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace>Place of origin</origPlace>
+              <origDate>Date of origin</origDate>
+            </origin>
+            <provenance type="found"> Findspot and circumstances/context
+            </provenance>
+            <provenance type="observed">Modern location(s) (if different from repository, above)
+            </provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="photograph of text or monument"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="edition" xml:space="preserve">
+        <ab>
+	  <pb n="1r"/>
+	  <pb n="1v"/>
+	  <lb n="1"/><g type="symbol">@</g> svasti valabhītaḥ prasabhapraṇatāmitrāṇāṁ maitrakāṇām atulabalasapatna<lb n="2"/>maṇḍalābhogasaṁsaktasaṁprahāraśatalabdhapratāpaḥ pratāpopanatadānamānārjjatopā<lb n="3"
+	  break="no"/>rjjitānurāgo nuraktamolabhṛtamitraśreṇībalāvāptarājaśrīḥ paramamāheśvaraḥ
+	  <lb n="4"/>senāpatiśrībhaṭakkaḥ tasya sutas tatpādarajoruṇāvanatapavitrīkṛtaśirāś śirova<lb n="5"
+	  break="no"/>nataśatrucūḍāmaṇiprabhāvacchuritapādanakhapaṅktidīdhitiḥ dīnānāthajanopajī<lb n="6"
+	  break="no"/>nyamānavibhavaḥ paramamāheśvaras senāpatidharasenaḥ tasyānujas tatpādābhipra<lb n="7"
+	  break="no"/>ṇāmapraśāstavimalamolīmaṇir mmanvādipraṇītavidhividhānadharmmā dharmmarāja
+	  <lb n="8"/>Iva vihitavinayanyavasthāpaddhātir akhilabhuvanamaṇḍalābhogasvāminā parama<lb n="9"
+	  break="no"/>svāminā svayam upahitarājyābhiṣerumahāviśrāṇanāvapūtarājaśrīḥ paramamā<lb n="10"
+	  break="no"/>heśvaro mahārājadroṇasi<supplied reason="omitted">ṁ</supplied>haḥ si<supplied reason="omitted">ṁ</supplied>ha Iva tasyānujas svabhujabalena paragaja<lb n="11"
+	  break="no"/>ghaṭānīkānām ekavijayī śaraṇaiṣiṇā<supplied reason="omitted">ṁ</supplied> śaraṇam ivaboddhā śāstrārtthatatvānā<unclear>ṁ</unclear> kalpa<lb n="12"
+	  break="no"/>tarur iva sudhrutpraṇayināṁ yathābhilaṣitaphalopabhogadaḥ paramabhāgavataḥ
+	  <lb n="13"/>paramabhaṭyārakapādānudhyāto mahāsāmantamahārājadhruvasenaḥ kuśalī
+	  <lb n="14"/>sarvvān eva svān āyuktakaviniyuktakadrā<supplied reason="omitted">ṅ</supplied>gikamahattarācāṭabhaṭadhruvādhikaraṇika<pb n="2r"
+	  break="no"/><lb n="15" break="no"/>dāṇḍapāśikādīn anyā<supplied reason="omitted">ṁ</supplied>ś ca yathāsaṁbadhyamānakān ādh<unclear>a</unclear>yaty<note xml:lang="eng">The verb should be <foreign xml:lang="san-Latn">anudarśayati</foreign> or <foreign xml:lang="san-Latn">samājñāpayati</foreign>.</note> astu va viditaṁ yathā
+	  <lb n="16"/>hastavaprāharaṇyāṁ madkaṇāgrāme kuṭumbi-īśvarapratyayapādāvarttaśataṁ catv<unclear>ā</unclear>riṅśadadhikaṁ
+	  <lb n="17"/>soḍaśapādāvarttaparisarā vapī ca tathā tāpasīyagrāme <app><lem>tthiṇḍaka</lem><note xml:lang="eng">Konow (EI 11 [1911/12]: 107) has <foreign xml:lang="san-Latn">ḍhiṇḍaka°</foreign>.</note>pratyayapādāvārttaśataṁ
+	  <lb n="18"/>catvāriṅśadadhikaṁ tathā tiniṣakagrāme3 pūrvvottarasīmni pādāvarttaśataṁ saha vāpyā śaṅkaravāṭakavā<lb n="19"
+	  break="no"/>stavyabrāhmaṇakumāraśarmma<unclear>j</unclear>arabhajyibhyā<supplied reason="omitted">ṁ</supplied> śāṇḍilyasagotrābhyāṁ chandogasabrahmacāribhyaṁ mayā mā<lb n="20"
+	  break="no"/>tāpitroḥ puṇyāpyāyanāyātmanaś caihikāmuṣmikayathābhilaṣitaphalāvāptinimittam ācandrārka-
+	  <lb n="21"/>ārṇṇavakṣitisaritparvvatasthitisamakālīnaṁ putrapotrānvayabhotyaṁ4 balicaruvaiśvadevādyā<unclear>n</unclear>āṁ kri<lb n="22"
+	  break="no"/>yāṇāṁ samutsarp<orig>y</orig>aṇārttham udakātisarggeṇa brahmadāyo nisṛṣṭaḥ yato nayor ucitayā brahmadāya<lb n="23"
+	  break="no"/>sthityā bhuṁjatoḥ kṛṣatoḥ pradiśator vvā na kaiści<supplied reason="omitted">t</supplied> svalpāpy āpādhā kāryyāsmadvaṅgajair āgāmibhadra<lb n="24"
+	  break="no"/>nrāpatibhiś cānityāny aiśvaryyāṇy asthira<supplied reason="omitted">ṁ</supplied> mānuṣya<supplied reason="omitted">ṁ</supplied> sāmanyaṁ ca bhūmidānaphalam avagacchadbhiḥ
+	  <lb n="25"/>apam asmaddāyo numattavyaḥ yaś cācchindyād ācchidyamānaṁ vānumodāt sa pañcabhir mmahadātakaiḥ5
+	  <lb n="26"/>sopapātakais sa<supplied reason="omitted">ṁ</supplied>yuktas syād api cātra vyāsagītau6 ślokā bhavanti7 <supplied reason="omitted">/</supplied> ṣaṣṭivarṣasahasrāṇi svargge
+	  <lb n="27"/>modati bhūmidaḥ <supplied reason="omitted">/</supplied> ācchettā cānumantā ca tāny eva narake vase<supplied reason="omitted">t</supplied> <pc>=</pc>8 bahubhir vvasudhā bhuktā rājabhi<supplied reason="omitted">ḥ</supplied>
+	  <lb n="28"/>sagarādibhiḥ <supplied reason="omitted">/*</supplied> yasya yasya yadā bhūmis tasya tasya tadā phalaṁ .9 svahasto mama mahā<lb n="29"
+	  break="no"/>sāmantamahārājadhruvasenasya <pc>=</pc> dūtakaḥ pratihāramammakaḥ likhitaṁ kikkakena
+	  <lb n="30"/>saṁ 200 6 bhadrapada <unclear>ś</unclear>u 5
+        </ab>
+      </div>
+      <div type="apparatus">
+        <p>external apparatus criticus (if applicable)</p>
+      </div>
+      <div type="translation">
+        <p>translation(s)</p>
+      </div>
+      <div type="commentary">
+        <p>commentary</p>
+      </div>
+      <div type="bibliography">
+        <p>bibliography of previous editions, discussion, etc.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

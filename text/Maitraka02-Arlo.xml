@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>title of document</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority></authority>
+                <idno type="filename"></idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>museum/archive</repository>
+                        <idno>inventory number</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>description of object/monument (likely to include <material/>
+                                    and <objectType/> information, <dimensions/>, etc.)</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>description of text field/campus</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>description of letters, possibly including <height>letter-heights</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Place of origin</origPlace>
+                            <origDate>Date of origin</origDate>
+                        </origin>
+                        <provenance type="found"> Findspot and circumstances/context
+                        </provenance>
+                        <provenance type="observed">Modern location(s) (if different from repository, above)
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+<revisionDesc>
+            <change when="2019-09-18" who="#DB">Initial encoding.</change>
+            <change when="2019-09-19" who="#AG">Made edits to DB's work.</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="photograph of text or monument"/>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:lang="san-Latn">
+                <pb n="1r"/><!-- Not previously in the Encoding Guide: I suggest we put the pb tags for blank pages outside the adjacent p elements, not within them. They are still in a div, so this is legitimate TEI.-->
+                <p><!-- Using <p> to wrap semantic paragraphs.-->
+										<pb n="1v"/>
+										<lb n="1"/><g type="symbol">@</g> svasti valabhītaḥ prasabhapraṇatāmitrāṇāṁ maitrakāṇām atulabalasapatna<lb n="2" break="no"/>maṇḍalābhogasaṁsaktasaṁprahāraśatalabdhapratāpaḥ pratāpopanatadānamānārjja<choice><sic>t</sic><corr>v</corr></choice>opā<lb n="3" break="no"/>rjjitānurāgo <reg>'</reg><!-- Optionally using <reg> to supply editorial avagrahas.-->nuraktam<choice><orig>o</orig><reg>au</reg></choice>labhṛtamitraśreṇībalāvāptarājaśrīḥ paramamāheśvaraḥ
+										<lb n="4"/>senāpatiśrībhaṭakkaḥ tasya sutas tatpādarajo<reg>'</reg>ruṇāvanatapavitrīkṛtaśirāś śiro<reg>'</reg>va<lb n="5" break="no"/>nataśatrucūḍāmaṇi
+<choice><orig>prabhā-vicchurita</orig><reg>prabhāva-cchurita</reg></choice>
+pādanakhapaṅktidīdhitiḥ dīnānāthajanopajī<lb n="6" break="no"/><choice><sic>n</sic><corr>v</corr></choice>yamānavibhavaḥ paramamāheśvaras senāpatidharasenaḥ tasyānujas tatpādābhipra<lb n="7" break="no"/>ṇāmapraśa<choice><sic>ā</sic><corr>a</corr></choice>stavimalam<choice><orig>o</orig><reg>au</reg></choice>l<choice><sic>ī</sic><corr>i</corr></choice>maṇir mmanvādipraṇītavidhividhānadharmmā dharmmarāja <lb n="8"/> Iva vihitavinaya<choice><sic>n</sic><corr>v</corr></choice>yavasthāpaddh<choice><sic>ā</sic><corr>a</corr></choice>tir akhilabhuvanamaṇḍalābhogasvāminā parama<lb n="9" break="no"/>svāminā svayam upahitarājyābhiṣe<choice><sic>ru</sic><corr>ka</corr></choice>mahāviśrāṇanāvapūtarājaśrīḥ paramamā<lb n="10" break="no"/>heśvaro mahārājadroṇasi<supplied reason="omitted">ṁ</supplied>haḥ si<supplied reason="omitted">ṁ</supplied>ha Iva tasyānujas svabhujabalena paragaja<lb n="11" break="no"/>ghaṭānīkānām ekavijayī śaraṇaiṣiṇā<supplied reason="omitted">ṁ</supplied> śaraṇam 
+<choice><orig>iva boddhā</orig><reg>avaboddhā</reg></choice>
+ śāstrārtthatatvānā<unclear>ṁ</unclear> kalpa<lb n="12" break="no"/>tarur iva su<choice><sic>dhru</sic><corr>hṛ</corr></choice><!--To be very precise, perhaps separately mark up dh=h as a correction and ru=ṛ as normalisation. -->tpraṇayināṁ yathābhilaṣitaphalopabhogadaḥ paramabhāgavataḥ<lb n="13"/>paramabhaṭ<choice><sic>y</sic><corr>ṭ</corr></choice>ārakapādānudhyāto mahāsāmantamahārājadhruvasenaḥ kuśalī <lb n="14" break="no"/>sarvvān eva svān āyuktakaviniyuktakadrā<supplied reason="omitted">ṅ</supplied>gikamahattar<choice><sic>ā</sic><corr>a</corr></choice>cāṭabhaṭadhruvādhikaraṇika<pb n="2r" break="no"/><lb n="15" break="no"/>dāṇḍapāśikādīn anyā<supplied reason="omitted">ṁ</supplied>ś ca yathāsaṁbadhyamānakān <sic>ādh<unclear>a</unclear>yaty</sic><!--I would mark up the whole of ādhayaty as sic and leave it at that. But if bodhayaty occurs in any other Maitraka charters at this point, then I would probably assume this was a scribal error for bodhayaty and correct to that. --></p><!--In my own practice, I would start a new (semantic) paragraph at such points. I can't force anyone to do that, but I think it is good practice.-->
+										<p>astu v<orig>a</orig><!--Or mark up as sic/corr pair with correction to o. But I assume that the intent may have been vaḥ rather than vo and prefer not to correct sandhi usage. --> viditaṁ yathā<lb n="16" />hastavaprāharaṇyāṁ madkaṇāgrāme kuṭumbi-<!--Annette: you have not used hyphens anywhere else. I personally prefer to hyphenate compounds but we've made that optional in the transliteration guide - but since you don't use them anywhere else, I would probably remove this hyphen as well. -->Īśvarapratyayapādāvarttaśataṁ catv<unclear>ā</unclear>riṅśadadhikaṁ<lb n="17"/><choice><orig>s</orig><reg>ṣ</reg></choice>oḍaśapādāvarttaparisarā v<choice><sic>a</sic><corr>ā</corr></choice>pī ca tathā tāpasīyagrāme tthiṇḍaka pratyayapādāv<choice><sic>ā</sic><corr>a</corr></choice>rttaśataṁ<lb n="18"/>catvāri<orig>ṅ</orig><!--I usually flag such spellings as orig, but this is not essential.-->śadadhikaṁ tathā tiniṣakagrāme<!--I know of no way of marking up the alternative tathātiniṣaka except as an apparatus note. --> pūrvvottarasīmni pādāvarttaśataṁ saha vāpyā śaṅkaravāṭakavā<lb n="19" break="no"/>stavyabrāhmaṇakumāraśarmma<unclear>j</unclear>arabhajyibhyā<supplied reason="omitted">ṁ</supplied> śāṇḍilyasagotrābhyāṁ chandogasabrahmacāribhy<choice><sic>a</sic><corr>ā</corr></choice>ṁ mayā mā<lb n="20" break="no"/>tāpitroḥ puṇyāpyāyanāyātmanaś caihikāmuṣmikayathābhilaṣitaphalāvāptinimittam ācandrārka<lb n="21" break="no"/>Ā<!--Annette: note that you need to transliterate Ā here. I would also flag the line-end a and the line-initial Ā as orig. -->rṇṇavakṣitisaritparvvatasthitisamakālīnaṁ putrap<choice><orig>o</orig><reg>au</reg>trānvayabho<choice><sic>t</sic><corr>g</corr></choice><!--Or perhaps mark this up as an unclear g, giving the engraver the benefit of doubt. -->yaṁ balicaruvaiśvadevādyā<unclear>n</unclear>āṁ kri<lb n="22" break="no"/>yāṇāṁ samutsarp<choice><sic>y</sic><corr>p</corr></choice><!--Note that I am not marking this up as an editorial deletion of a surplus y, but as an editorial emendation of y to p. The intended spelling would have been rpp, not rp. -->aṇārttham udakātisarggeṇa brahmadāyo nisṛṣṭaḥ</p>
+										<p>yato <reg>'</reg>nayor ucitayā brahmadāya<lb n="23" break="no"/>sthityā bhuṁjatoḥ kṛṣatoḥ pradiśator vvā na kaiś ci<supplied reason="omitted">T</supplied> svalpāpy ā<choice><sic>p</sic><corr>b</corr></choice>ādhā kāryyāsmadvaṅśajair āgāmibhadra<lb n="24" break="no"/>n<choice><sic>rā</sic><corr>ṛ</corr></choice>patibhiś cānityāny aiśvaryyāṇy asthira<supplied reason="omitted">ṁ</supplied> mānuṣya<supplied reason="omitted">ṁ</supplied> sāmānyaṁ ca bhūmidānaphalam avagacchadbhiḥ<lb n="25"/>A<!--Annette: uppercase A.--><choice><sic>p</sic><corr>y</corr></choice>am asmaddāyo <reg>'</reg>numantavyaḥ yaś cācchindyād ācchidyamānaṁ <orig>vānumodāt</orig><!--Note 1. I haven't checked a grammar, but I think your standardisation is not correct; the expected form is vānumodeta, not vānumodet. Note 2: I perceive vānumodāt as non-standard grammar and prefer not to correct at all. Note 3: I could just as well have opted to include only ānumodāt or even just numodāt in the tag. --> sa pañcabhir mmahāpātakaiḥ <lb n="26" />sopapātakais sa<supplied reason="omitted">ṁ</supplied>yuktas syād</p>
+										<p>api cātra vyāsagītau  ślokā bhavanti</p><!--Note: in Siddham I would have supplied punctuation here (and at the previous points where I started a new semantic paragraph). But for DHARMA, Arlo has urged us not to supply editorial punctuation anywhere. -->
+<lg n="I" met="anuṣṭubh">
+	<l n="a">ṣaṣṭivarṣasahasrāṇi</l>
+	<l n="b">svargge <lb n="27"/> modati bhūmidaḥ</l><!--Verse punctuation should definitely not be supplied.-->
+	<l n="c"><!--Note uppercase Ā. -->Ācchettā cānumantā ca</l>
+	<l n="d">tāny eva narake vase<supplied reason="omitted">T<!--Annette: supply halanta T, not in-akṣara t. --><g type="punctuation">=</g><!--This method of marking up punctuation signs is not in the body text of the Encoding Guide as of now; it is only mentioned in a recent comment of mine. --></l>
+</lg>
+ <lg n="II" met="anuṣṭubh">
+	<l n="a">bahubhir vvasudhā bhuktā</l>
+	<l n="b">rājabhi<supplied reason="omitted">ḥ</supplied><lb n="28"/> sagarādibhiḥ</l>
+	<l n="c">yasya yasya yadā bhūmis</l>
+	<l n="d">tasya tasya tadā phalaṁ<unclear><g type="punctuation">=</g></unclear><!--Note that I've marked up your . punctuation mark as an unclear instance of the same punctuation mark as the one at the end of the previous stanza. Other solutions could be used here. --></l>
+</lg>
+										<p type="colophon"><!--Here I'm using markup that is at the moment only mentioned in a comment to the Encoding Guide, not in its body text.-->svahasto mama mahā<lb n="29" break="no"/>sāmantamahārājadhruvasenasya<g type="punctuation">=</g><!--I would encourage everyone NOT to add spaces before punctuation marks.--> dūtakaḥ pratihāramammakaḥ likhitaṁ kikkakena <lb n="30"/>
+<expan><abbr>saṁ</abbr><ex>vatsare</ex></expan>
+<!--Note that you could optionally mark up saṁ as an abbreviation for saṁvatsare. --> <num value="206"><g type="numeral">200</g> 6</num> bh<orig>a</orig><!--Though not flagged in Annette's edition, I would flag the a as non-standard since I'd expect bhādrapada. -->drapada <unclear>ś</unclear>u<!--Again, śu could optionally be marked up as an abbreviation for śukla or śukla-divase. Annette: actually it's always written śuddha when written in full.--> <num value="5">5</num>
+										</p>
+									<pb n="2v"/>
+            </div>
+            <div type="apparatus">
+                <p>external apparatus criticus (if applicable)</p>
+            </div>
+            <div type="translation">
+                <p>translation(s)</p>
+            </div>
+            <div type="commentary">
+                <p>commentary</p>
+            </div>
+            <div type="bibliography">
+                <p>bibliography of previous editions, discussion, etc.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
