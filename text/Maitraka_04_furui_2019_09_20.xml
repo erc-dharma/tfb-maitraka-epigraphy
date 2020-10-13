@@ -1,66 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>‘Cambay’ Plate of Dhruvasena I, [Valabhī] year 206, Āśvayuja śu. 3</title>
-            </titleStmt>
-            <publicationStmt>
-                <authority></authority>
-                <idno type="filename"></idno>
-            </publicationStmt>
-            <sourceDesc>
-                <msDesc>
-                    <msIdentifier>
-                        <repository>museum/archive</repository>
-                        <idno>inventory number</idno>
-                    </msIdentifier>
-                    <physDesc>
-                        <objectDesc>
-                            <supportDesc>
-                                <support>description of object/monument (likely to include <material/>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>‘Cambay’ Plate of Dhruvasena I, [Valabhī] year 206, Āśvayuja śu. 3</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority/>
+            <idno type="filename"/>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>museum/archive</repository>
+                  <idno>inventory number</idno>
+               </msIdentifier>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <support>description of object/monument (likely to include <material/>
                                     and <objectType/> information, <dimensions/>, etc.)</support>
-                            </supportDesc>
-                            <layoutDesc>
-                                <layout>description of text field/campus</layout>
-                            </layoutDesc>
-                        </objectDesc>
-                        <handDesc>
-                            <handNote>description of letters, possibly including <height>letter-heights</height>
-                            </handNote>
-                        </handDesc>
-                    </physDesc>
-                    <history>
-                        <origin>
-                            <origPlace>Place of origin</origPlace>
-                            <origDate>Date of origin</origDate>
-                        </origin>
-                        <provenance type="found"> Findspot and circumstances/context
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>description of text field/campus</layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote>description of letters, possibly including <height>letter-heights</height>
+                     </handNote>
+                  </handDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origPlace>Place of origin</origPlace>
+                     <origDate>Date of origin</origDate>
+                  </origin>
+                  <provenance type="found"> Findspot and circumstances/context
                         </provenance>
-                        <provenance type="observed">Modern location(s) (if different from repository, above)
+                  <provenance type="observed">Modern location(s) (if different from repository, above)
                         </provenance>
-                    </history>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-<revisionDesc>
-            <change when="2019-09-20" who="#RF">Initial encoding.</change>
-        </revisionDesc>
-    </teiHeader>
-    <facsimile>
-        <graphic url="photograph of text or monument"/>
-    </facsimile>
-    <text>
-        <body>
-            <div type="edition" xml:space="preserve" xml:lang="san-Ltn">
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2019-09-20" who="#RF">Initial encoding.</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="photograph of text or monument"/>
+   </facsimile>
+   <text>
+      <body>
+         <div type="edition" xml:space="preserve" xml:lang="san-Ltn">
                 <ab>
                     <pb n="2r"/>                   
-                        <lb n="1"/>rṇṇavakṣitisaritparvvatasthitisamak<unclear>ā</unclear>līnaṁ putrap<choice><sic>o</sic><corr>au</corr></choice>trānvayabhojyaṁ bali<lb 
-                        n="2" break="no"/>caruvaiśvadevādyānāṁ kriyāṇāṁ samutsarppaṇārtthaṁ siṁhapuravāstavyabrāhmaṇarogghamitrāya
-                        <lb n="3"/>vrajagaṇasagotrāya cchandogasabrahmacāriṇe brahmadāyaṁ nisṛṣṭaṁ  yato<reg>'</reg>syoci¬tayā brahma<lb 
-                        n="4" break="no"/>deyasthityā bhuṁjataḥ kṛṣataḥ pradiśataẖ karṣāpayataś ca na kaiś ciT svalpāpy ābādhā vicāraṇā vā 
+                        <lb n="1"/>rṇṇavakṣitisaritparvvatasthitisamak<unclear>ā</unclear>līnaṁ putrap<choice><sic>o</sic><corr>au</corr></choice>trānvayabhojyaṁ bali<lb n="2" break="no"/>caruvaiśvadevādyānāṁ kriyāṇāṁ samutsarppaṇārtthaṁ siṁhapuravāstavyabrāhmaṇarogghamitrāya
+                        <lb n="3"/>vrajagaṇasagotrāya cchandogasabrahmacāriṇe brahmadāyaṁ nisṛṣṭaṁ  yato<reg>'</reg>syoci¬tayā brahma<lb n="4" break="no"/>deyasthityā bhuṁjataḥ kṛṣataḥ pradiśataẖ karṣāpayataś ca na kaiś ciT svalpāpy ābādhā vicāraṇā vā 
                         <lb n="5"/>kāryyāsmadvaṁśajair āg<choice><sic>u</sic><corr>ā</corr></choice><surplus>ṁ</surplus>minṛpatibhiś cānityāny aiśvaryyā<unclear>ṇ</unclear>y asthiraṁ mānuṣyaṁ cāvekṣya sāmānyaṁ ca
                         <lb n="6"/>bhūmidānaphalam avagacchadbhir ayam asmaddāyo <reg>'</reg>numantavyo yaś cācchindyād ācchidyamānaṁ v<choice><sic>a</sic><corr>ā</corr></choice>numodeT
                         <lb n="7"/>sa pañcābhir <surplus>m</surplus>mahāpātakais sopapātakais saṁyuktas syād api cātra vyāsagīto śloko
@@ -79,18 +77,18 @@
                     <pb n="2v"/>
                 </ab>
             </div>
-            <div type="apparatus">
-                <p>external apparatus criticus (if applicable)</p>
-            </div>
-            <div type="translation">
-                <p>translation(s)</p>
-            </div>
-            <div type="commentary">
-                <p>commentary</p>
-            </div>
-            <div type="bibliography">
-                <p>bibliography of previous editions, discussion, etc.</p>
-            </div>
-        </body>
-    </text>
+         <div type="apparatus">
+            <p>external apparatus criticus (if applicable)</p>
+         </div>
+         <div type="translation">
+            <p>translation(s)</p>
+         </div>
+         <div type="commentary">
+            <p>commentary</p>
+         </div>
+         <div type="bibliography">
+            <p>bibliography of previous editions, discussion, etc.</p>
+         </div>
+      </body>
+   </text>
 </TEI>
