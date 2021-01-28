@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader xml:lang="eng">
       <fileDesc>
@@ -46,7 +49,7 @@
    <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn">
-            <pb n="1r"/><space quantity="1" unit="page"/>
+            <pb n="1r"/>
             <p>
                <pb n="1v"/>
                <lb n="1"/><g type="symbol" subtype="spiralL"/>svasti valabhītaḥ prasabhapraṇatāmitrāṇāṁ maitrakā<choice><sic>n</sic><corr>ṇ</corr></choice>ṇā<surplus>ṁ</surplus>m atulabalasapatnamaṇḍalābhogasaṁsaktasaṁprah<choice><sic>a</sic><corr>ā</corr></choice>āra<lb n="2" break="no"/>śatalabdhapratāpaḥ pratāpo<supplied reason="omitted">pa</supplied>natadānamānārjjavopārjjitānurāgo nuraktam<orig>o</orig>labhṛtamitraśreṇ<unclear>ī</unclear>balāvāpta<lb n="3" break="no"/>rājyaśrīḥ paramamāheśvaraḥ śrīsenāpatibhaṭakkas tasya sutas tatpādarajoru<choice><sic>na</sic><corr>ṇā</corr></choice>va<supplied reason="omitted">na</supplied>tapavitrīkṛtaśirāḥ śirovanata<lb n="4" break="no"/>śatrucūḍāmaṇiprabhāvicchuritapādanakhapaṅktidīdhitir ddīnānāthajanopajīvyamānavibhavaḥ paramamāheśvara<supplied reason="omitted">ḥ</supplied><lb n="5"/>senāpatidharasenas tasyānujas tatpādābhipraṇāmapraśastavimalam<orig>o</orig>limaṇir mmanvādipraṇītavidhividh<choice><sic>a</sic><corr>ā</corr></choice>na<lb n="6" break="no"/>dharmmā dharmmarāja Iva vihitavinayavyavasthāpaddhati<choice><sic>dh</sic><corr>r</corr></choice> akhilabhuvanamaṇḍalābhogasvāminā paramasvāminā<lb n="7" break="no"/>svayam upahitarājyābhiṣekamahāviśrāṇanāvapūtarājaśrīḥ paramamāheśvaro mahārājadroṇasiṁhaḥ<lb n="8"/>si<supplied reason="">ṁ</supplied>ha Iva tasyānujas svabhujabalena paragajaghaṭānīkānām anekavijayī śaraṇ<orig>e</orig>ṣiṇāṁ śaraṇam avaboddhā<lb n="9"/>ś<choice><sic>a</sic><corr>ā</corr></choice>strārtthattvānāṁ kalpatarur iva suhṛtpraṇayināṁ yathābhilaṣitaphalopabhogadaḥ paramabhāgavataḥ<lb n="10"/>paramabhaṭ<choice><sic>y</sic><corr>ṭ</corr></choice>ārakapādānuddhyāto mahārājadhruvasenaẖ kuśalī sarvvān eva svān āyuktakaviniyuktacāṭa<lb n="11" break="no"/>
@@ -61,7 +64,7 @@
                   </app>
                </listApp>         
          </div>
-         <div type="translation" xml:lang="eng">
+         <div type="translation">
  	<!--translation encoded as per EG §9.2 -->
          </div>
          <div type="commentary">

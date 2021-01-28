@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader xml:lang="eng">
       <fileDesc>
@@ -65,7 +68,7 @@
    <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn">
-         	<pb n="1r"/><space quantity="1" unit="page"/>
+         	<pb n="1r"/>
          	<p>
          		<pb n="1v"/>
          		<lb n="1"/>svasti valabhītaḥ prasabhapraṇatāmitrāṇā<unclear>ṁ</unclear> maitrakāṇām atulabalasapatnamaṇḍalābhogasaṁsakta<lb n="2" break="no"/>saṁprahāraśatalabdhapratāpaḥ pratāpopanatadānamānārjjavopārjjitānurāgo nuraktam<orig>o</orig>labhṛtamitra<lb n="3" break="no"/>śreṇībalāvāptarājyaśrī<supplied reason="omitted">ḥ</supplied> para<surplus>ṁ</surplus>mamāheśvaras senāpatiśrībhaṭ<surplus>ṭ</surplus>akkas tasya suta<supplied reason="omitted">s ta</supplied>tpādarajor<unclear>u</unclear>ṇā<lb n="4" break="no"/>va<unclear>n</unclear>atapavitrīkṛtaśirāḥ śirovanataśatrucūḍāmaṇiprabhāvicchu<supplied reason="omitted">ri</supplied>tapādanakhapaṅktidīdhitir ddīnā<surplus>ṁ</surplus>nātha<lb n="5" break="no"/>janopajīvyamānavibhavaḥ paramamāheśvaras senāpatidharasenas tasyānujas tatpādapraṇāmapraśasta<lb n="6" break="no"/>vimalam<orig>o</orig>limaṇir mmanvādipr<choice><sic>ā</sic><corr>a</corr></choice>ṇ<choice><sic>ina</sic><corr>īta</corr></choice>vidhividhānadharmmā dharmmarāja Iva vihitavinayavyavasthāpaddhati<lb n="7" break="no"/>r akhilabhuvanamaṇḍalābhogasvāminā paramasvāminā svayam upahitarājyābhiṣekamahāviśrāṇa<lb n="8" break="no"/>nāvapūtarājaśrī<supplied reason="omitted">ḥ</supplied> paramamāheśvaro mahārājadroṇasiṁhaḥ siṁha Iva tasyānujas svabhujabale<lb n="9" break="no"/>na paragajaghaṭānīkānām ekavijayī śaraṇ<choice><sic>ī</sic><corr>ai</corr></choice>ṣiṇā<supplied reason="omitted">ṁ</supplied> śaraṇam avaboddhā śāstrārtthatatvānāṁ<lb n="10"/>kalpatarur iva suhṛtpraṇayinā<supplied reason="omitted">ṁ</supplied> yathābhilaṣitaphalopabhogadaḥ paramabhāgavataḥ parama<lb n="11" break="no"/>bhaṭ<choice><sic>y</sic><corr>ṭ</corr></choice>ārakapādānuddhyāto mahāsāmantamahārājadhruvasenaẖ kuśalī sarvvān eva svān āyuktakavini<lb n="12" break="no"/>yukt<choice><sic>ā</sic><corr>a</corr></choice><supplied reason="omitted">ka</supplied>cāṭabhaṭadrāṅgikamahattaradhruvā<choice><sic>d</sic><corr>dh</corr></choice>ikaraṇikadāṇḍapāśikādīn anyāṁś ca yath<unclear>ā</unclear>saṁbaddhya<lb n="13" break="no"/>mānakān bodhaya<choice><sic>v</sic><corr>t</corr></choice>y astu vo viditaṁ yathā hastavaprāharaṇyāṁ chedakapadraka<pb n="2r"/>
@@ -81,7 +84,7 @@
                   </app>
                </listApp>
          </div>
-         <div type="translation" xml:lang="eng">
+         <div type="translation">
  	<!--translation encoded as per EG §9.2 -->
          </div>
          <div type="commentary">
