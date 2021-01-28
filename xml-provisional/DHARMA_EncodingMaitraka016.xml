@@ -1,114 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Palitana-Iyaveja plates of Dhruvasena I, year 210, Bhadrapada ba. 9</title>
-                <respStmt>
-                    <resp>EpiDoc Encoding</resp>
-                    <persName ref="part:ansc">
-                        <forename>Annette</forename>
-                        <surname>Schmiedchen</surname>
-                    </persName>
-                </respStmt>
-                <respStmt>
-                    <resp>intellectual authorship of edition</resp>
-                    <persName ref="part:ansc">
-                        <forename>Annette</forename>
-                        <surname>Schmiedchen</surname>
-                    </persName>
-                </respStmt>
-            </titleStmt>
-            <publicationStmt>
-                <authority>DHARMA</authority>
-                <pubPlace>Berlin</pubPlace>
-                <idno type="filename">Maitraka00016</idno>
-                <availability>
-                    <licence target="https://creativecommons.org/licenses/by/4.0/">
-                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Palitana-Iyaveja plates of Dhruvasena I, year 210, Bhadrapada ba. 9</title>
+            <respStmt>
+               <resp>EpiDoc Encoding</resp>
+               <persName ref="part:ansc">
+                  <forename>Annette</forename>
+                  <surname>Schmiedchen</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:ansc">
+                  <forename>Annette</forename>
+                  <surname>Schmiedchen</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Berlin</pubPlace>
+            <idno type="filename">Maitraka00016</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
                             Licence. To view a copy of the licence, visit
                             https://creativecommons.org/licenses/by/4.0/ or send a letter to
                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                             California, 94041, USA.</p>
-                        <p>Copyright (c) 2019-2025 by Annette Schmiedchen</p>                          
-                    </licence>
-                </availability>
-                <date from="2019" to="2025">2019-2025</date>
-            </publicationStmt>
-            <sourceDesc>
-                <msDesc>
-                    <msIdentifier>
-                        <repository>DHARMAbase</repository>
-                        <idno/>
-                    </msIdentifier>
-                    <msContents>
-                        <summary>Grant of land in favour of two Yajurvedic brothers (no. 1: 100 <foreign>pādāvarta</foreign>; no. 2: 100 <foreign>pādāvarta</foreign> and a cistern surrounded by 12 <foreign>pādāvarta</foreign>) from Nagaraka.</summary>
-                    </msContents>
-                    <physDesc>
-                        <handDesc>
-                            <p>
+                  <p>Copyright (c) 2019-2025 by Annette Schmiedchen</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+               </msIdentifier>
+               <msContents>
+                  <summary>Grant of land in favour of two Yajurvedic brothers (no. 1: 100 <foreign>pādāvarta</foreign>; no. 2: 100 <foreign>pādāvarta</foreign> and a cistern surrounded by 12 <foreign>pādāvarta</foreign>) from Nagaraka.</summary>
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p>
                             </p>
-                        </handDesc>
-                    </physDesc>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
-            </projectDesc>
-            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-            <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
-                </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_V01.xml</ref> file.</p>
-                </prefixDef>
-            </listPrefixDef>
-        </encodingDesc>
-        <revisionDesc>
-            <change who="part:ansc" when="2020-11-12" status="draft">Initial encoding of the file></change>
-        </revisionDesc>
-    </teiHeader>
-    <text xml:space="preserve">
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+         </projectDesc>
+         <schemaRef type="guide"
+                    key="EGDv01"
+                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <listPrefixDef>
+            <prefixDef ident="bib"
+                       matchPattern="([a-zA-Z0-9\-\_]+)"
+                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+               <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+            </prefixDef>
+            <prefixDef ident="part"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+               <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_V01.xml</ref> file.</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <revisionDesc>
+         <change who="part:ansc" when="2020-11-12" status="draft">Initial encoding of the file&gt;</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn">
-             <pb n="1r"/><space quantity="1" unit="page"/>
+             <pb n="1r"/>
          	<p>
          		<pb n="1v"/>
-         		<lb n="1"/>svasti valabhītaḥ prasabhapraṇatāmitrāṇā<supplied reason="omitted">ṁ</supplied> maitrakāṇām atulabalasapatnamaṇḍalā<lb
-         		n="2" break="no"/>bhogasaṁsaktasaṁprahāraśatalabdhapratāpaḥ pratāpopanatadān<choice><sic>ā</sic><corr>a</corr></choice>mān<unclear>ā</unclear>rjjavopārjjitānu<lb
-         		n="3" break="no"/>raktam<orig>o</orig>labhṛtaśreṇībalāvāptarājyaśrīḥ paramamāheśvaraḥ śrīsenāpatibhaṭakkas tasya suta<lb
-         		n="4" break="no"/>s tatpādarajoruṇāvanatapavitrīkṛtaśirāḥ śirovanataśatrucūḍāmaṇiprabhāvicchuritapādana<lb
-         		n="5" break="no"/>khapaṁktidīdhitiḥ dīnānāthajanopajīvyamānavibhavaḥ paramamāheśvaras senāpatidhara<lb
-         		n="6" break="no"/>senas tasyānujas tatpā<supplied reason="omitted">dā</supplied>bhipraṇāmapraśastavimalamaṇim<orig>o</orig>liḥ manvād<choice><sic>ī</sic><corr>i</corr></choice><surplus>nā</surplus>praṇītavidhi<lb
-         		n="7" break="no"/>vidhānadharmmā dharmmarāja Iva vihitavinayavya<choice><sic>p</sic><corr>v</corr></choice>asthāpaddhatir akhilabhuvanamaṇḍalābhoga<lb
-         		n="8" break="no"/>svāminā paramasvāminā svayam upahit<choice><sic>ā</sic><corr>a</corr></choice>rājyābhiṣekamahāviśrāṇanāvapūtarājyaśrīḥ<lb
-         		n="9"/>paramamāheśvaro mahārājaśrīdroṇasiṁhas siṁha Iva tasyānujaḥ svabhujabalena para<lb
-         		n="10" break="no"/>gajaghaṭānīkānām ekavijayī śaraṇaiṣiṇā<supplied reason="omitted">ṁ</supplied> śaraṇam avaboddhā śāstrārtthatatvānāṁ kalpataru<lb
-         		n="11" break="no"/>r iva suhṛtpraṇayināṁ yathābhilaṣitaphalopabhogadaḥ paramabhāgagavataḫ paramabhaṭ<choice><sic>y</sic><corr>ṭ</corr></choice>ā<lb
-         		n="12" break="no"/>rakapādānuddhyāto mahāsāmantamahārājadhruvasenaẖ kuśalī sarvvān eva svān āyuktaka<lb
-         		n="13" break="no"/>viniyuktakamahattaradrāṁgikadhruvasthānādhikaraṇikādīn anyāṁś ca yathāsaṁbaddhyamānakān a<lb
-         		n="14" break="no"/>nudarśayaty astu vas saṁviditaṁ yathā surāṣṭrāyāṁ bhadreṇikāgrāmasya pūrvvadakṣiṇas<choice><sic>i</sic><corr>ī</corr></choice>mni<lb
-         		n="15"/>pādāvarttaśataṁ nagarakavāstavyabrāhmaṇaśāntiśarmmaṇe ātreyasagotrāya vāji<pb n="2r"/>
-         		<lb n="16" break="no"/>saneyasabrahmacāriṇe tathā asyaiva bhrātre devaśarmmaṇe asyāṁ Eva sīmni<lb
-         		n="17"/>pādāvarttaśataṁ vāpībhollaraṁ ca dvādaśapādāvarttaparisaraṁ mayā mātāpitroḫ puṇyāpyāya<lb
-         		n="18" break="no"/>nā<supplied>yā</supplied>tmanaś caihikāmuṣmikayathābhilaṣitaphalāvāptinimittam ācandrārk<choice><sic>t</sic><corr>k</corr></choice>ārṇṇavakṣitisthitisari<lb
-         		
-         		n="19" break="no"/><lb
-         		n="20" break="no"/><gap reason="illegible" quantity="3" unit="character" precision="low"></gap><unclear>moditaḥ</unclear> yato nayo<unclear>r</unclear> bhu<unclear>ṁ</unclear><gap reason="illegible" quantity="1" unit="character"></gap>toḥ kṛṣatoḥ karṣayatoḥ pradiśator vvā na kaiści<lb
-         		n="21" break="no"/><gap reason="illegible" quantity="4" unit="character" precision="low"></gap>dh<unclear>ā</unclear> vicāraṇā vā kāryyāsma<gap reason="illegible" quantity="1" unit="character"></gap>śa<unclear>jai</unclear>r āgāmibhadranṛpatibhiś cānityāny aiśvaryy<unclear>āṇy a</unclear><lb
-         		n="22" break="no"/><gap reason="illegible" quantity="6" unit="character" precision="low"></gap><unclear>mānyaṁ ca bhūmi</unclear><gap reason="illegible" quantity="3" unit="character"></gap>lam avagacchadbhir iyam asmadanumat<unclear>i</unclear><gap reason="illegible" quantity="3" unit="character" precision="low"></gap><lb
-         		n="23" break="no"/>ntavyā ya<unclear>ś cācchi</unclear>ndyā<unclear>d ā</unclear>cchidyamānaṁ vānu<gap reason="illegible" quantity="2" unit="character"></gap>t sa pañcabhir mmahāpātakai<unclear>s so</unclear>papātakai<gap reason="illegible" quantity="1" unit="character"></gap><lb
-         		n="24"/><unclear>saṁyukta</unclear><gap reason="illegible" quantity="1" unit="character"></gap>d iti cātra vyāsagītāś ślokā <unclear>bha</unclear><gap reason="illegible" quantity="3" unit="character"></gap>ṣ<choice><sic>ṭh</sic><corr>ṭ</corr></choice>ṭhiva<unclear>rṣasaha</unclear>srā<unclear>ṇi svargge</unclear> modati bhūmidaḥ<lb
-         		n="25"/><gap reason="illegible" quantity="3" unit="character"></gap> <unclear>cā</unclear>]numantā ca tāny e<unclear>va na</unclear>rake <unclear>va</unclear>se<gap reason="illegible" quantity="1" unit="character"></gap> sva<unclear>da</unclear>ttāṁ para<unclear>da</unclear>ttāṁ vā yo <unclear>hareta</unclear>hareta vasundharā<unclear>ṁ</unclear><lb
-         		n="26"/>gavāṁ <unclear>śata</unclear>sahasrasya ha<unclear>ntu</unclear>ḥ prāpnoti ki<unclear>lbiṣaM</unclear> bahu<unclear>bh</unclear>ir vvasudhā bhuktā rāja<gap reason="illegible" quantity="4" unit="character" precision="low"></gap><lb
-         		n="27" break="no"/>dibhiḥ yasya yasya yadā bhūmis tasya tasya tadā phalam iti<lb
-         		n="28"/><unclear>svahasto</unclear> mama mahāsāmantamahārājadhruvasenasya <unclear>dū</unclear>takaḥ pratīhāramamma<unclear>kaḥ</unclear><lb
-         		n="29"/>likhitaṁ kikkake<unclear>na</unclear> <gap reason="lost" extent="unknown" unit="character"></gap><abbr>śu</abbr><gap reason="lost" extent="unknown" unit="character"></gap>
+         		<lb n="1"/>svasti valabhītaḥ prasabhapraṇatāmitrāṇā<supplied reason="omitted">ṁ</supplied> maitrakāṇām atulabalasapatnamaṇḍalā<lb n="2" break="no"/>bhogasaṁsaktasaṁprahāraśatalabdhapratāpaḥ pratāpopanatadān<choice><sic>ā</sic><corr>a</corr></choice>mān<unclear>ā</unclear>rjjavopārjjitānu<lb n="3" break="no"/>raktam<orig>o</orig>labhṛtaśreṇībalāvāptarājyaśrīḥ paramamāheśvaraḥ śrīsenāpatibhaṭakkas tasya suta<lb n="4" break="no"/>s tatpādarajoruṇāvanatapavitrīkṛtaśirāḥ śirovanataśatrucūḍāmaṇiprabhāvicchuritapādana<lb n="5" break="no"/>khapaṁktidīdhitiḥ dīnānāthajanopajīvyamānavibhavaḥ paramamāheśvaras senāpatidhara<lb n="6" break="no"/>senas tasyānujas tatpā<supplied reason="omitted">dā</supplied>bhipraṇāmapraśastavimalamaṇim<orig>o</orig>liḥ manvād<choice><sic>ī</sic><corr>i</corr></choice><surplus>nā</surplus>praṇītavidhi<lb n="7" break="no"/>vidhānadharmmā dharmmarāja Iva vihitavinayavya<choice><sic>p</sic><corr>v</corr></choice>asthāpaddhatir akhilabhuvanamaṇḍalābhoga<lb n="8" break="no"/>svāminā paramasvāminā svayam upahit<choice><sic>ā</sic><corr>a</corr></choice>rājyābhiṣekamahāviśrāṇanāvapūtarājyaśrīḥ<lb n="9"/>paramamāheśvaro mahārājaśrīdroṇasiṁhas siṁha Iva tasyānujaḥ svabhujabalena para<lb n="10" break="no"/>gajaghaṭānīkānām ekavijayī śaraṇaiṣiṇā<supplied reason="omitted">ṁ</supplied> śaraṇam avaboddhā śāstrārtthatatvānāṁ kalpataru<lb n="11" break="no"/>r iva suhṛtpraṇayināṁ yathābhilaṣitaphalopabhogadaḥ paramabhāgagavataḫ paramabhaṭ<choice><sic>y</sic><corr>ṭ</corr></choice>ā<lb n="12" break="no"/>rakapādānuddhyāto mahāsāmantamahārājadhruvasenaẖ kuśalī sarvvān eva svān āyuktaka<lb n="13" break="no"/>viniyuktakamahattaradrāṁgikadhruvasthānādhikaraṇikādīn anyāṁś ca yathāsaṁbaddhyamānakān a<lb n="14" break="no"/>nudarśayaty astu vas saṁviditaṁ yathā surāṣṭrāyāṁ bhadreṇikāgrāmasya pūrvvadakṣiṇas<choice><sic>i</sic><corr>ī</corr></choice>mni<lb n="15"/>pādāvarttaśataṁ nagarakavāstavyabrāhmaṇaśāntiśarmmaṇe ātreyasagotrāya vāji<pb n="2r"/>
+         		<lb n="16" break="no"/>saneyasabrahmacāriṇe tathā asyaiva bhrātre devaśarmmaṇe asyāṁ Eva sīmni<lb n="17"/>pādāvarttaśataṁ vāpībhollaraṁ ca dvādaśapādāvarttaparisaraṁ mayā mātāpitroḫ puṇyāpyāya<lb n="18" break="no"/>nā<supplied>yā</supplied>tmanaś caihikāmuṣmikayathābhilaṣitaphalāvāptinimittam ācandrārk<choice><sic>t</sic><corr>k</corr></choice>ārṇṇavakṣitisthitisari<lb n="19" break="no"/><lb n="20" break="no"/><gap reason="illegible" quantity="3" unit="character" precision="low"/><unclear>moditaḥ</unclear> yato nayo<unclear>r</unclear> bhu<unclear>ṁ</unclear><gap reason="illegible" quantity="1" unit="character"/>toḥ kṛṣatoḥ karṣayatoḥ pradiśator vvā na kaiści<lb n="21" break="no"/><gap reason="illegible" quantity="4" unit="character" precision="low"/>dh<unclear>ā</unclear> vicāraṇā vā kāryyāsma<gap reason="illegible" quantity="1" unit="character"/>śa<unclear>jai</unclear>r āgāmibhadranṛpatibhiś cānityāny aiśvaryy<unclear>āṇy a</unclear><lb n="22" break="no"/><gap reason="illegible" quantity="6" unit="character" precision="low"/><unclear>mānyaṁ ca bhūmi</unclear><gap reason="illegible" quantity="3" unit="character"/>lam avagacchadbhir iyam asmadanumat<unclear>i</unclear><gap reason="illegible" quantity="3" unit="character" precision="low"/><lb n="23" break="no"/>ntavyā ya<unclear>ś cācchi</unclear>ndyā<unclear>d ā</unclear>cchidyamānaṁ vānu<gap reason="illegible" quantity="2" unit="character"/>t sa pañcabhir mmahāpātakai<unclear>s so</unclear>papātakai<gap reason="illegible" quantity="1" unit="character"/><lb n="24"/><unclear>saṁyukta</unclear><gap reason="illegible" quantity="1" unit="character"/>d iti cātra vyāsagītāś ślokā <unclear>bha</unclear><gap reason="illegible" quantity="3" unit="character"/>ṣ<choice><sic>ṭh</sic><corr>ṭ</corr></choice>ṭhiva<unclear>rṣasaha</unclear>srā<unclear>ṇi svargge</unclear> modati bhūmidaḥ<lb n="25"/><gap reason="illegible" quantity="3" unit="character"/> <unclear>cā</unclear>]numantā ca tāny e<unclear>va na</unclear>rake <unclear>va</unclear>se<gap reason="illegible" quantity="1" unit="character"/> sva<unclear>da</unclear>ttāṁ para<unclear>da</unclear>ttāṁ vā yo <unclear>hareta</unclear>hareta vasundharā<unclear>ṁ</unclear><lb n="26"/>gavāṁ <unclear>śata</unclear>sahasrasya ha<unclear>ntu</unclear>ḥ prāpnoti ki<unclear>lbiṣaM</unclear> bahu<unclear>bh</unclear>ir vvasudhā bhuktā rāja<gap reason="illegible" quantity="4" unit="character" precision="low"/><lb n="27" break="no"/>dibhiḥ yasya yasya yadā bhūmis tasya tasya tadā phalam iti<lb n="28"/><unclear>svahasto</unclear> mama mahāsāmantamahārājadhruvasenasya <unclear>dū</unclear>takaḥ pratīhāramamma<unclear>kaḥ</unclear><lb n="29"/>likhitaṁ kikkake<unclear>na</unclear> <gap reason="lost" extent="unknown" unit="character"/><abbr>śu</abbr><gap reason="lost" extent="unknown" unit="character"/>
          	</p>            
          </div>
          <div type="apparatus">
@@ -120,7 +101,7 @@
                   </app>
                </listApp>
          </div>
-         <div type="translation" xml:lang="eng">
+         <div type="translation">
  	<!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
