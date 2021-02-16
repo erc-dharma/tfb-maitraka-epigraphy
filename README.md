@@ -2,7 +2,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 # tfb-maitraka-epigraphy
-DHARMA project Task Force B, Bhaumakara epigraphic corpus.
+DHARMA project Task Force B, Maitraka epigraphic corpus.
 For more information, see the [website description](https://dharma.hypotheses.org/task-forces).
 
 ## Help and Guides
