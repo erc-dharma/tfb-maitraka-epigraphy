@@ -9,7 +9,7 @@
       <fileDesc>
          <titleStmt>
             <title>‘Cambay’ Plate of Dhruvasena I, [Valabhī] year 206, Āśvayuja śu. 3 (only plate 2)</title>
-            <respStmt><!-- add an element respStmt for each person involved -->
+            <respStmt>
                <resp>EpiDoc Encoding</resp>
                <persName ref="part:ansc">
                   <forename>Annette</forename>
@@ -81,10 +81,8 @@
    <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn">
-            <pb n="1r"/>
             <p>
-            <pb n="1v"/>
-            <pb n="2r"/>
+            <pb n="1r"/>
                <lb n="1"/>rṇṇavakṣitisaritparvvatasthitisamak<unclear>ā</unclear>līnaṁ putrap<orig>o</orig>trānvayabhojyaṁ bali<lb n="2" break="no"/>caruvaiśvadevādyānāṁ kriyāṇāṁ samutsarppaṇārtthaṁ siṁhapuravāstavyabrāhmaṇarogghamitrāya<lb n="3"/>vrajagaṇasagotrāya cchandogasabrahmacāriṇe brahmadāyaṁ nisṛṣṭaṁ yato syocitayā brahma<lb n="4" break="no"/>deyasthityā bhuṁjataḥ kṛṣataḥ pradiśataẖ karṣāpayataś ca na kaiścit svalpāpy ābādhā vicāraṇā vā<lb n="5"/>kāryyāsmadvaṁśajair āg<choice><sic>u</sic><corr>ā</corr></choice><surplus>ṁ</surplus>minṛpatibhiś cānityāny aiśvaryyā<unclear>ṇ</unclear>y asthiraṁ mānuṣyaṁ cāvekṣya sāmānyaṁ ca<lb n="6"/>bhūmidānaphalam avagacchadbhir ayam asmaddāyo numantavyo yaś cācchindyād ācchidyamānaṁ v<choice><sic>a</sic><corr>ā</corr></choice>numodeT<lb n="7"/>sa pañcābhir mmahāpātakais sopapātakais saṁyuktas syād api cātra vyāsagīt<orig>o</orig> ślok<orig>o</orig><lb n="8"/>bhavataḥ ṣaṣṭiṁ varṣasahasrāṇi svargge modati bhūmidaḥ Ācchettā cānumantā ca tāny eva narake<lb n="9"/>vaseT svadattāṁ paradatt<supplied reason="omitted">ṁ</supplied> <surplus>v</surplus>vā yo hareta vasundharāṁ gavāṁ śatasahasrasya hantu<supplied reason="omitted">ḥ</supplied> prāpnoti<lb n="10"/>kilbiṣam iti <g type="ddandaPlain">.</g> svahasto mama mahārājadhruvasenasya dūtakaḥ pratīhāramammakaḥ<lb n="11"/>likhitaṁ kikkakena <abbr>saṁ</abbr> <num value="206"><g type="numeral">200</g> 6</num> Āśvayuja <abbr>śu</abbr> <num value="3">3</num>
             </p>
          </div>
