@@ -9,7 +9,7 @@
       <fileDesc>
          <titleStmt>
             <title>Mota Machiala Plates of Dhruvasena I, [Valabhī] year 206, Āśvayuja śu. 5</title>
-            <respStmt><!-- add an element respStmt for each person involved -->
+            <respStmt>
                <resp>EpiDoc Encoding</resp>
                <persName ref="part:ansc">
                   <forename>Annette</forename>
@@ -84,7 +84,7 @@
             <pb n="1r"/>
             <p>
             <pb n="1v"/>
-               <lb n="1"/>svasti valabhītaḥ prasabhapraṇatāmitrāṇāṁ maitrakā<choice><sic>n</sic><corr>ṇ</corr></choice>nām atulabalasapatnamaṇḍalābhoga<lb 
+               <lb n="1"/>svasti valabhītaḥ prasabhapraṇatāmitrāṇāṁ maitrakā<choice><sic>n</sic><corr>ṇ</corr></choice>ām atulabalasapatnamaṇḍalābhoga<lb 
                n="2" break="no"/>saṁsaktasaṁprahāraśatalab<unclear>dh</unclear>apratāpaḥ pratāpopanatadānamānārjjavopārjjitānurāgo nu<lb 
                n="3" break="no"/>raktam<orig>o</orig>labhṛtyamitraśreṇībalāvāptarājyaśr<choice><sic>i</sic><corr>ī</corr></choice>ḥ paramamāheśvaraḥ śrīsenāpatibhaṭakkaḥ tasya su<lb 
                n="4" break="no"/>tas tatpādarajoruṇanatapavitrīkṛtaśirāḥ śirovanataśatrucūḍāmaṇiprabhāvicchuritapādanakha<lb 
@@ -92,7 +92,7 @@
                n="6"/>tatpādābhipraṇāmapraśastavimalam<orig>o</orig>limaṇiḥ manvādipraṇītavidhividhānadharmmā dharmmarāja Iva vihi<lb 
                n="7" break="no"/>tavinayavyavasthāpaddhatir akhilabhuvanamaṇḍalābhogasvāminā paramasvāminā svayam upahitarājyā<lb 
                n="8" break="no"/>bhiṣekamahāvi<choice><sic>g</sic><corr>ś</corr></choice>rāṇanāvapūtarājaśrīḥ paramamāheśvaro mahārājadroṇasiṁhaḥ siṁha Iva tasyānu<lb 
-               n="9" break="no"/>jaḥ svabhujabalena paragajaghaṭān<choice><sic>i</sic><corr>ī</corr></choice>ikānām <choice><sic>a</sic><corr>e</corr></choice>kavijay<choice><sic>i</sic><corr>ī</corr></choice> śaraṇaiṣiṇāṁ śaraṇam avaboddhā śāstrārtthatatvānāṁ<lb 
+               n="9" break="no"/>jaḥ svabhujabalena paragajaghaṭān<choice><sic>i</sic><corr>ī</corr></choice>kānām <choice><sic>a</sic><corr>e</corr></choice>kavijay<choice><sic>i</sic><corr>ī</corr></choice> śaraṇaiṣiṇāṁ śaraṇam avaboddhā śāstrārtthatatvānāṁ<lb 
                n="10"/>kalpatarur iva suhṛtpraṇayināṁ yathābhila<surplus>k</surplus>ṣitaphalopabhogadaḥ paramabhāgavataḥ paramabhaṭṭāraka<lb 
                n="11" break="no"/>pādānuddhyāto mahārājadhruvasenaḥ kuśalī sarvvān eva svān āyuktakamahattaradrāṅgikacāṭabhaṭadhruvasthā<lb 
                n="12" break="no"/>nādhikaraṇadaṇḍapāśikād<choice><sic>i</sic><corr>ī</corr></choice>n anyāṁś ca yathāsaṁbadhyamānakān anudarśayaty</p> <p>astu vas saṁviditaṃ yathā ma<lb 
