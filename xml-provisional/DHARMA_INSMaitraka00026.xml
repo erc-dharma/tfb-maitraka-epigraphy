@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Bhavnagar Plates of Guhasena I, [Valabhī] year 248, Āśvayuja ba. 14</title>
+            <title>Bhavnagar Plates of Guhasena I, [Valabhī] year 248, Āśvayuja ba. 1[4]</title>
             <respStmt>
                <resp>EpiDoc Encoding</resp>
                <persName ref="part:ansc">
@@ -101,7 +101,7 @@
                    n="12"/>bhū<unclear>m</unclear>iḥ tasya tasya tadā phalam <g type="ddandaPlain">.</g> yānīha dāridr<supplied reason="omitted">y</supplied>abhayān narendrair ddhanāni dharmmāyatanīkṛtāni nirmmālyav<unclear>ā</unclear>ānta<lb
                    n="13" break="no"/>pratimāni tāni ko nāma sādhuḫ punar ādadīta <g type="ddandaPlain">.</g> lakṣmīniketaṁ yadapāśrayeṇa prāpto si <unclear>lokābhimataṁ</unclear><lb 
                    n="14"/><unclear>n</unclear>ṛpa<unclear>tva</unclear><supplied reason="omitted">ṁ</supplied> tāny eva puṇyāny abhiva<unclear>rddhayethā</unclear> na karśaṇīyo hy upakāripakṣa Iti //<lb
-                   n="15"/>svamukhājñā // likhitaṁ sāndhivigrahādhikaraṇādhikṛtaskandabhaṭeneti <g type="dashPlain">~</g> <abbr>saṁ</abbr> <num value="248"><g type="numeral">200</g> <g type="numeral">40</g> 8</num> <unclear>Ā</unclear>śvayuja ba di <num value="14"><g type="numeral">10</g> <unclear>4</unclear></num>
+                   n="15"/>svamukhājñā // likhitaṁ sāndhivigrahādhikaraṇādhikṛtaskandabhaṭeneti <g type="dashPlain">~</g> <abbr>saṁ</abbr> <num value="248"><g type="numeral">200</g> <g type="numeral">40</g> 8</num> <unclear>Ā</unclear>śvayuja <abbr>ba</abbr> <abbr>di</abbr> <num value="14"><g type="numeral">10</g> <unclear>4</unclear></num>
             </p>                        
          </div>
          <div type="apparatus">
