@@ -79,7 +79,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change who="part:ansc" when="2021-04-27" status="draft">Initial encoding of the file&gt;</change>
+         <change who="part:ansc" when="2022-04-12" status="draft">Initial encoding of the file&gt;</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
@@ -88,11 +88,12 @@
             <pb n="1r"/>
             <p>
          	<pb n="1v"/>
-               <lb n="1"/><g type="spiralL"/>svasti valabhītaḥ prasabhapraṇatāmitrāṇāṁ maitrakāṇām atulabalasapatnamaṇḍalābhogasaṁsaktasaṁprahāra<lb 
-                   n="2" break="no"/>śatalabdhapratāpaḥ pratāpopanatadānamānārjjavopārjjitānurāgo nuraktam<orig>o</orig>labhṛtamitraśreṇībalāvāptarājyaśrīḥ parama<lb 
-                   n="3" break="no"/>mā<unclear>he</unclear>śvaraḥ śrīsenāpatibhaṭārkkas tasya sutas tatpādarajo<surplus>va</surplus>ruṇāvanatapavitrīkṛtaśirāś śirovanataśatru<unclear>cū</unclear>ḍāmaṇiprabhā<lb 
-                   n="4" break="no"/>vicchu<unclear>ri</unclear>tapādanakhapaṅktidīdhitiḥ dīnānāthakṛpaṇajanopajīvyamānavibhavaḥ paramamāheśvaraḥ śrīsenāpatidharasenaḥ<lb 
-                   n="5"/><unclear>ta</unclear>tasyānujas tatpādābhipraṇāmapraśastataravimalam<orig>o</orig>limaṇir mmanvādipraṇītavidhividhānadharmmā dharmmarāja Iva vihitavinaya<lb 
+               <lb n="1"/><g type="spiralL"/> <g type="ddandaPlain">.</g> svasti vijayaskandhāvarāT bha<unclear>dro</unclear>ṭāṭṭanakavāsakā<unclear>T</unclear> prasabhapraṇatāmitrāṇāṁ maitrakāṇām atulabalasapatnamaṇ<unclear>ḍ</unclear>alābhogasaṁsa<lb 
+                   n="2" break="no"/>ktasaṁprahāraśatala<choice><sic>d</sic><corr>b</corr></choice>dhapratāpaḥ pratāpopanatadānamānārjjavo<choice><sic>d</sic><corr>p</corr></choice>ārjjitānurāgo nuraktamaulabhṛtam<choice><sic>ā</sic><corr>i</corr></choice>traśreṇībalāv<choice><sic>a</sic><corr>ā</corr></choice>pta<lb 
+                   n="3" break="no"/>rājyaśrīḥ paramamāheśvaraḥ śrīs<unclear>e</unclear>nāpatibhaṭārkas tasya s<unclear>u</unclear>ta<surplus>ḥ</surplus>s tatpādarajoruṇāvanatapavitrīkṛtaśir<choice><sic>a</sic><corr>ā</corr></choice>ḥ ś<choice><sic>a</sic><corr>i</corr></choice>rovanataśatru<lb 
+                   n="4" break="no"/>cūḍāmaṇiprabhāvicchurita<choice><sic>d</sic><corr>p</corr></choice>ādanakhapaṅktidīdhitiḥ dīnānāthakṛpaṇajanopajīvyamānavibhavaḥ paramamāheśvaraḥ śrīse<lb
+                      
+                   n="5"/>nāpatidharasenaḥ<unclear>ta</unclear>tasyānujas tatpādābhipraṇāmapraśastataravimalam<orig>o</orig>limaṇir mmanvādipraṇītavidhividhānadharmmā dharmmarāja Iva vihitavinaya<lb 
                    n="6" break="no"/>vyavasthāpaddhatir akhilabhuvanamaṇḍalābhogaikasvāmināparamasvāminā svayam up<choice><sic>ā</sic><corr>a</corr></choice>hitarājyābhiṣekamahāv<choice><sic>ī</sic><corr>i</corr></choice>iśrāṇanā<choice><sic>j</sic><corr>v</corr></choice>a<lb 
                    n="7" break="no"/>pūta<unclear>rā</unclear>jyaśrīḥ paramam<choice><sic>a</sic><corr>ā</corr></choice>heśvaro mahārājadroṇasi<unclear>ṁ</unclear>ha<supplied reason="omitted"></supplied>ḥ siṁha Iva tasyānuja<unclear>ḥ</unclear> svabhujabalaparākrameṇa paragajaghaṭānīkānā<lb 
                    n="8" break="no"/>m ekavijay<unclear>ī</unclear> śaraṇaiṣiṇā<unclear>ṁ</unclear> śaraṇam avaboddhā śāstrā<unclear>r</unclear>tthatatvānāṁ kalpatarur iva suhṛtpraṇayinā<unclear>ṁ</unclear><lb 
