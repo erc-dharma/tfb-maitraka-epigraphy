@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Valabhipur Plates of Guhasena I, [Valabhī] year 248, Māgha [ba.] ? (only plate 2)</title>
+            <title>Palitana-Valabhipur Plates of Śīlāditya I, [Valabhī] year [286], [Vaiśākha ba. 6]</title>
             <respStmt>
                <resp>EpiDoc Encoding</resp>
                <persName ref="part:ansc">
@@ -21,13 +21,15 @@
                <persName>
                   <forename>Annette</forename>
                   <surname>Schmiedchen</surname>
+                  <forename>R. G.</forename>
+                  <surname>Bhandarkar</surname>
                </persName>
             </respStmt>
          </titleStmt>
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Berlin</pubPlace>
-            <idno type="filename">DHARMA_INSMaitraka00025</idno>
+            <idno type="filename">DHARMA_INSMaitraka00043</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -47,7 +49,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>Grant of four villages in favour of a Buddhist monastery in Valabhī.</summary>
+                  <summary>Grant of land in favour of a Buddhist monastery.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -79,16 +81,19 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change who="part:ansc" when="2021-04-19" status="draft">Initial encoding of the file&gt;</change>
+         <change who="part:ansc" when="2022-07-20" status="draft">Initial encoding of the file&gt;</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn">
+            <pb n="1r"/>
             <p>
-         	<pb n="1r"/>
-               <lb n="1"/><gap reason="undefined" extent="unknown" unit="character"/><unclear>sa</unclear>tvanikaṣa<unclear>ḥ tat</unclear>prabhāvapraṇatārāti<unclear>c</unclear>ū<gap reason="undefined" extent="unknown" unit="character"/><lb n="2" break="no"/><gap reason="undefined" extent="unknown" unit="character"/><unclear>sakala</unclear>smṛtipraṇītamārggasamyakparipālana<unclear>p</unclear>r<unclear>a</unclear><gap reason="undefined" extent="unknown" unit="character"/><lb n="3" break="no"/><gap reason="undefined" extent="unknown" unit="character"/><unclear>ryya</unclear>buddhisaṁpadbhiḥ <unclear>s</unclear>maraśaśāṅkādrirājodadhitridaśagurudhaneśān a<gap reason="undefined" extent="unknown" unit="character"/><lb n="4" break="no"/><gap reason="undefined" extent="unknown" unit="character"/>yapradānaparatayā t<choice><sic>ri</sic><corr>ṛ</corr></choice>ṇavadapā<unclear>s</unclear>tāśeṣasvakāryyaphalaḥ prārtthanādhikārtthapradānāna<unclear>n</unclear>d<unclear>i</unclear><lb n="5" break="no"/><gap reason="illegible" quantity="5" unit="character"/>tpra<unclear>ṇa</unclear>yihṛ<unclear>da</unclear>yaḥ pādacā<unclear>r</unclear>ī<unclear>v</unclear>a sakalabhuvanamaṇḍalābhogapramodaḥ paramamāheśvaraḥ<lb n="6"/>śr<unclear>ī</unclear><gap reason="illegible" quantity="2" unit="character"/>rājaguhasenaẖ kuśalī sarvvān evāyuktakaviniyuktakadrāṅgikamahattaracāṭabhaṭadhruvādhikaraṇikadāṇḍa<lb n="7" break="no"/>pāśika<unclear>co</unclear>roddharaṇikarājasthānīyakumārāmātyādīn anyāṁś ca yathāsambaddhyamānakāN samājñāpayaty astu vas saṁviditaṁ<lb n="8"/><unclear>valabhī</unclear>talasanni<unclear>v</unclear>iṣṭaḍuḍḍāpādakāritaḍuḍḍāmahāvihāre nānādigabhyāgatāṣṭādaśanikāyābhyantaraśākyāryyabhikṣusaṁ<lb n="9" break="no"/>gh<unclear>ā</unclear>ya grāsācchādanaśayyāsanaglānapratyayabhaiṣajyādyupayogārttham ānumaṁj<unclear>ī</unclear>prāveśyapippalaruṁkharīprāveśyaśamīpadravāṭaka<unclear>ṁ</unclear><lb n="10"/>tathā maṇḍalīdraṁge saṅgam<unclear>ā</unclear>nakaṁ deṭakahāre naddīyaṁ <g type="dandaPlain">.</g> tathā cossarī <g type="dandaPlain">.</g> evam <orig>ai</orig>tadgrāmacatuṣṭayaṁ soddraṅgaṁ soparikaraṁ savātabhūta<lb n="11" break="no"/>dh<unclear>ā</unclear>nyahiraṇy<unclear>ā</unclear>deyaṁ sotpadyamā<unclear>n</unclear>aviṣṭikaṁ sarvvarājakīyāhastaprakṣepaṇīyaṁ bhūmicchidranyāyena mayā mātāpitror ātmanaś <unclear>c</unclear>ai<gap reason="illegible" quantity="1" unit="character"/><lb n="12" break="no"/>kāmuṣmikayathābhilaṣitaphalāvāptaye Udakasarggeṇātisṛṣṭaṁ yato syocitayā śākyāryyabhikṣusaṁghasthit<supplied reason="omitted">y</supplied>ā bhuṁjataḥ kṛṣataḥ ka<unclear>rṣa</unclear><gap reason="illegible" quantity="1" unit="character"/><lb n="13" break="no"/>to vā na <unclear>kai</unclear>ścit pratiṣedhe varttitavyam āgāmibhadranṛpatibhiś cāsmadvaṅśajair anityāny aiśvaryy<choice><sic>a</sic><corr>ā</corr></choice>aṇy asthiraṁ mānuṣyaṁ sāmānyaṁ ca bhūmidā<gap reason="illegible" quantity="1" unit="character"/><lb n="14" break="no"/>phalam ava<unclear>ga</unclear>cchadbhir ayam asmaddāyo numantavyaḥ paripālayitavyaś ca <unclear>ya</unclear>ś cainam ācchi<supplied reason="omitted">n</supplied>dyād ācchidyamānaṁ vānumodeta sa paṁ<unclear>cā</unclear><gap reason="illegible" quantity="1" unit="character"/><lb n="15" break="no"/><gap reason="illegible" quantity="4" unit="character"/>saṁyuktas syāT trayyāṁ ca varttamānaḥ paṁcabhir mmahāpātakais sopapātakais saṁyukta<supplied reason="omitted">ḥ</supplied> syād api ca <g type="ddandaPlain">.</g> yānīha dārid<unclear>ra</unclear><gap reason="illegible" quantity="3" unit="character"/><lb n="16" break="no"/><gap reason="illegible" quantity="2" unit="character"/><unclear>r ddhanāni dha</unclear>rmmāyatanīkṛtāni <g type="dandaPlain">.</g> nirmmālyavāntapratimāni tāni ko nāma sādhuḫ punar ādadīta <g type="ddandaPlain">.</g> bahubhir vvasudhā<gap reason="illegible" quantity="4" unit="character"/><lb n="17" break="no"/><gap reason="illegible" quantity="4" unit="character"/><unclear>dibhiḥ <g type="dandaPlain">.</g></unclear> yasya yasya yadā bhūmiḥ tasya tasya tadā phalam iti <g type="ddandaPlain">.</g> svamukhājñā <g type="ddandaPlain">.</g> sva<unclear>ha</unclear>sto mama mahār<unclear>ā</unclear><gap reason="illegible" quantity="5" unit="character"/><lb n="18" break="no"/><gap reason="illegible" quantity="1" unit="character"/> <unclear>li</unclear>khita<unclear>ṁ</unclear> <gap reason="illegible" quantity="1" unit="character"/><unclear>dhivi</unclear>grahādhikaraṇādhikṛtaskandabhaṭena <g type="ddandaPlain">.</g> <abbr>saṁ</abbr> <num value="248"><g type="numeral">200</g> <g type="numeral">40</g> 8</num> māgha <abbr>ba</abbr> <gap reason="undefined" extent="unknown" unit="character"/>
-            </p>                        
+         	<pb n="1v"/>
+               <lb n="1"/><g type="spiralL"/> svasti valabhītaḥ prasabhapraṇatāmitrāṇāṁ maitrakāṇām atulabala saṁpannamaṇḍalābhogasaṁsaktaprahā<lb n="2" break="no"/>raśatalabdhapratāpāt pratāpopanatadānamānārjjavopārjjitānurāgād anuraktamaulabhṛtśreṇībalā<lb n="3" break="no"/>vāptarājyaśriyaḥ paramamāhe<surplus>ṁ</surplus>śvaraśrībhaṭārkkād avyavacchinnarā<surplus>ṁ</surplus>javaṁśān mātāpitṛcaraṇāravindapraṇatipravidhautāśeṣakalma<lb n="4" break="no"/>ṣaḥ śaiśavāt prabhṛti khaḍgadvitīyabāhur eva samadaparagajaghaṭāsphoṭanaprakāśitasatvanikaṣas tatp<supplied reason="omitted">r</supplied>abhā<lb n="5" break="no"/>vapraṇatārāticūḍāratnaprabhāsaṁsaktasaktapādanakharaśmisaṁghatis sakalasmṛtipraṇītamārggasamyakparipālana<lb n="6" break="no"/>prajāhṛdayaraṁjanānvarttharājaśabdaḥ rūpakāntisthairyyadhairyyagāmbhīryyabuddhisaṁpadbhiḥ smaraśaśāṅkādrirājo<lb n="7" break="no"/>dadhit<choice><sic>ṛ</sic><corr>ri</corr></choice>daśaguru<choice><sic>g</sic><corr>dh</corr></choice>aneśān atiśayānaś śaraṇāgatābhayapradānaparatayā t<choice><sic>ri</sic><corr>ṛ</corr></choice>ṇav<choice><sic>a</sic><corr>e</corr></choice>dapāstāśeṣasvakāryya<lb n="8" break="no"/>phala<supplied reason="omitted">ḥ</supplied> prārtthanādhikārtthapradānānanditavidvatsuhṛtpraṇayihṛdayaḥ pādacārīva sakalabhuvanamaṇḍalābho<lb n="9" break="no"/>gapramodaḥ paramamāheśvaraḥ mahārājaśrīguhasenas tasya sutas tatpādanakhamayūkhasaṁtānavisṛtajāhnavījalau<lb n="10" break="no"/>ghaprakṣālitāśeṣakalmaṣaḥ praṇayiśatasahasropajīvyamānasaṁpad rūpalobhād ivāśritas sarabhasam ābhi<lb n="11" break="no"/>g<unclear>ā</unclear>mikair guṇais sahajaśaktiśikṣāviśeṣavismāpitākhilabaladhanurddharaḥ prathamanarapatisamatisṛṣṭānā<lb n="12" break="no"/>m anupālayitā dharmmadāyānām apākarttā prajopaghātakāriṇām upaplavānāṁ darśayitā śrīsarasvatyor ekā<lb n="13" break="no"/>dhivāsasya saṁghatārātipakṣalakṣmīparibhogadakṣavikramo vikramopasaṁprāptavimalapārtthivaśrīḥ paramamāhe<lb n="14" break="no"/>śvaraḥ śrīdharasenas tasya sutas tatpādānuddhyātas sakalajagadānandanātyadbhutaguṇasamudayasthagitasamagradiṅma<lb n="15" break="no"/>ṇḍalas samaraśatavijayaśobhāsanāthamaṇḍalāgradyutibhāsuratarānsapīṭhodūḍhagurumanorathamahābhāraḥ<lb n="16"/>sarvvavidyāparāvaravibhāgādhigamavimalamatir api sarvvatas subhāṣitalavenāpi sukhopapādanīyapari<lb n="17" break="no"/>toṣa<supplied reason="omitted">ḥ</supplied> samagralokāgādhagāmbhīryyahṛdayo pi sucaritātiśayasuvyaktaparamakalyāṇasvabhāvaḥ khilībhū<lb n="18" break="no"/>takṛtayuganṛpatipathaviśodhanādhigatodagrakīrttir ddharmmānuparodho<supplied reason="omitted">j</supplied>jvalatarīkṛtārttha
+            <pb n="2r"/>
+         		<lb n="19" break="no"/>sukhasaṁpadupasevānirūḍhadharmmādityad<unclear>v</unclear>itīyanāmā paramamāheśvaraḥ śrīśilā<gap reason="illegible" extent="unknown"/><lb n="20" break="no"/><gap reason="illegible" extent="unknown"/>yuktakaviniyuktaka<gap reason="illegible" extent="unknown"/>mah<unclear/>attar<unclear>a</unclear><gap reason="illegible" extent="unknown"/>dīn anyā<gap reason="illegible" extent="unknown"/><lb n="21" break="no"/><gap reason="illegible" extent="unknown"/>samājñāpayaty astu vas saṁviditaṁ yathā mayā mātāpitṛ<unclear>puṇyā</unclear>pyāyanāya<gap reason="illegible" extent="unknown"/><lb n="22" break="no"/>k<unclear>ā</unclear>ritavihāranivāsicaturdigabhyāgatāryabhikṣusaṁghasya c<unclear>ī</unclear>varapiṇḍapātaśayanāsana<gap reason="illegible" quantity="8" unit="character"/><lb n="23" break="no"/>pariṣkārārthaṁ buddhānā<supplied reason="omitted">ṁ</supplied><surplus>ś</surplus> ca bhagavatāṁ gandhadhūpapuṣpamālyadīpatailādyupayogārthaṁ vihārasya ca khaṇḍasphuṭitapratisaṁ<lb n="24" break="no"/>skarāya <unclear>pālatīrolahme</unclear> <unclear>rakṣaraputra</unclear>grāme nadyuttarataṭe <gap reason="illegible" extent="unknown"/><lb n="25" break="no"/>kṣetraṁ tathodrapadrakagrāme<gap reason="illegible" extent="unknown"/>kṣetraṁ sod<unclear>ra</unclear>ṅgaṁ<lb n="26"/>soparikaraṁ <gap reason="ellipsis" extent="unknown"/><lb n="27" break="no"/><gap reason="ellipsis" extent="unknown"/><lb n="28" break="no"/><gap reason="ellipsis" extent="unknown"/><lb n="29" break="no"/><gap reason="ellipsis" extent="unknown"/><lb n="30" break="no"/><gap reason="ellipsis" extent="unknown"/><lb n="31" break="no"/><gap reason="ellipsis" extent="unknown"/><lb n="32" break="no"/><gap reason="ellipsis" extent="unknown"/><lb n="33" break="no"/>dūtaka<unclear>ḥ a</unclear>tra  bhaṭṭādityayaśāḥ likhitaṁ saṁdhivigra<gap reason="illegible" extent="unknown"/><lb n="34" break="no"/><gap reason="illegible" extent="unknown"/> <abbr>saṁ</abbr> <num value="286"><g type="numeral">200</g> <g type="numeral">80</g> 6</num> vaiśākha <abbr>ba</abbr> <num value="6">6</num> <g type="ddandaPlain">.</g><lb n="35"/>svahasto mama
+            </p>                           
          </div>
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
