@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Navalakhi plates of Śīlāditya I, [Valabhī] year 286, Āṣāḍha ba. 8</title>
+            <title>Ambalasa plates of Śīlāditya I, [Valabhī] year 290, Śrāvaṇa bahula 12</title>
             <respStmt>
                <resp>EpiDoc Encoding</resp>
                <persName ref="part:ansc">
@@ -47,7 +47,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>Grant of a village in favour of 44 Brahmins of different, but not specified Vedic affiliation.</summary>
+                  <summary>Grant of a village in favour of a Buddhist monastery.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -79,7 +79,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change who="part:ansc" when="2022-07-26" status="draft">Initial encoding of the file&gt;</change>
+         <change who="part:ansc" when="2022-08-02" status="draft">Initial encoding of the file&gt;</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
@@ -88,12 +88,12 @@
             <pb n="1r"/>
             <p>
          	<pb n="1v"/>
-               <lb n="1"/><g type="spiralL"/> svasti valabhītaḥ prasabhapraṇatāmitrāṇāṁ maitrakāṇām atulabalasaṁpannamaṇḍalābhogasaṁsaktaprahāraśatalabdhapratāpāt p<supplied reason="omitted">r</supplied>a<lb 
-                   n="2" break="no"/>tāpopanatadānamānārjjavopā<unclear>r</unclear>jjitānurāgād anuraktamaulabhṛtaśr<unclear>e</unclear>ṇībalāvāptarājyaśriyaḥ paramamāheśvaraśrī<lb 
-                   n="3" break="no"/>bhaṭārkkād avyavacchinnarājavaṁśān mātāpitṛcaraṇāravindapraṇatipravidhautāśeṣakalmaṣaḥ śaiśavāt prabhṛti khaḍgadvit<unclear>ī</unclear>yabā<lb 
-                   n="4" break="no"/>hur evasamadaparagajaghaṭāsphoṭanaprakāśitasatvanikaṣas tatprabh<choice><sic>a</sic><corr>ā</corr></choice>vapraṇatārāticūḍāratnaprabhāsaṁsaktasaktapādanakharaśmi<lb
-                   n="5" break="no"/>saṁghatis sakalasmṛtipraṇītamārggasamyakparipālanaprajāhṛdayaraṁjanānvarttharājaśabdaḥ rūpakāntisthairyyadhairyyagā<lb
-                   n="6" break="no"/>mbhīryyabuddhisaṁpadbhiḥ smaraśaś<choice><sic>a</sic><corr>ā</corr></choice>ṅkādrirājodadhit<choice><sic>ṛ</sic><corr>ri</corr></choice>daśagurudhaneśān atiśayāna<unclear>ś</unclear> śaraṇāgatābhayapradānaparatayā<lb 
+               <lb n="1"/><g type="spiralL"/> svasti vijayaskandhāvārād bhadreśvaravāsakāt prasabhapraṇatāmitrā<unclear>ṇāṁ</unclear> maitrakāṇām atulabalasampannamaṇḍa<lb 
+                   n="2" break="no"/>lābhogasaṁsaktaprahāraśatalabdhapratāpāt pratāpopanatadānamānārjjavopārjjitānurāgād anuraktam<unclear>au</unclear><lb 
+                   n="3" break="no"/><unclear>la</unclear>bhṛtaśreṇībalāvāptarājyaśriyaḥ paramamāheśvaraśrībhaṭārkkād avyavacchinnarājavaṅśān mātāpitṛ<unclear>ca</unclear><lb 
+                   n="4" break="no"/><unclear>ra</unclear>ṇāravindapraṇatipravidhautāśeṣakalmaṣaḥ śaiśavāt prabhṛti khaḍgadvitīyabāhur eva samadapa<lb
+                   n="5" break="no"/>ragajaghaṭāsphoṭanaprakāśitasatvanikaṣas tatprabhāvapraṇatārāticūḍāratnaprabhāsaṁsa<lb
+                   n="6" break="no"/>ktapādanakharaśmisaṁghatis sakalasmṛtipraṇītamārggasamyakparipālanaprajāhṛdayaraṁjanānvarttharājaśabdaḥ rūpakāntisthairyyadhairyyagāmbhīryyabuddhisaṁpadbhiḥ smaraśaś<choice><sic>a</sic><corr>ā</corr></choice>ṅkādrirājodadhit<choice><sic>ṛ</sic><corr>ri</corr></choice>daśagurudhaneśān atiśayāna<unclear>ś</unclear> śaraṇāgatābhayapradānaparatayā<lb 
                    n="7"/>t<choice><sic>ri</sic><corr>ṛ</corr></choice>ṇavadapāstāśeṣasvakāryyaphala<supplied reason="omitted">ḥ</supplied> prārtthanādhikārtthapradānānanditavidvatsuhṛ<supplied reason="omitted">t</supplied>praṇayihṛdayaḥ pādacārīva sakalabhuvana<lb 
                    n="8" break="no"/>maṇḍalābhogapramodaḥ paramamāheśvaraḥ śrīguhasenas tasya sutas tatpādanakhamayūkhasantānavisṛtajāhnavījalaughapra<lb 
                    n="9" break="no"/>kṣālitāśeṣakalmaṣaḥ praṇayiśatasahasropajīvyamānasaṁpad rūpalobhād ivāśritas sarabhasam ābhigāmikair guṇaiḥ<lb 
