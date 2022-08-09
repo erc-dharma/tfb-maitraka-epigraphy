@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Kumāroṭaka grant of Śīlāditya I, [Valabhī] year 290, Aśvayuja ba. 11</title>
+            <title>Bhadreṇiyaka grant of Śīlāditya I, [Valabhī] year 292, Caitra śu. 14</title>
             <respStmt>
                <resp>EpiDoc Encoding</resp>
                <persName ref="part:ansc">
@@ -27,7 +27,7 @@
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Berlin</pubPlace>
-            <idno type="filename">DHARMA_INSMaitraka00053</idno>
+            <idno type="filename">DHARMA_INSMaitraka00054</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -47,7 +47,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>Grant of land (420 <foreign>pādāvarta</foreign> in 4 villages) in favour of a Yajurvedin.</summary>
+                  <summary>Grant of land (100 <foreign>pādāvarta</foreign> and a <foreign>bhaikṣaka</foreign>) in favour of [god] Ādityadeva.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
