@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Bhadreṇiyaka grant of Śīlāditya I, [Valabhī] year 292, Caitra śu. 14</title>
+            <title>Virdi plates of Kharagraha I, [Valabhī] year 297, Vaiśākha śu. 12</title>
             <respStmt>
                <resp>EpiDoc Encoding</resp>
                <persName ref="part:ansc">
@@ -47,7 +47,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>Grant of land (100 <foreign>pādāvarta</foreign> and a <foreign>bhaikṣaka</foreign>) in favour of [god] Ādityadeva.</summary>
+                  <summary>Grant of land (38 <foreign>pādāvarta</foreign> and a cistern surrounded by 12 <foreign>pādāvarta</foreign>) in favour of a Yajurvedin.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -79,7 +79,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change who="part:ansc" when="2022-08-09" status="draft">Initial encoding of the file&gt;</change>
+         <change who="part:ansc" when="2022-08-11" status="draft">Initial encoding of the file&gt;</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
@@ -88,23 +88,24 @@
             <pb n="1r"/>
             <p>
          	<pb n="1v"/>
-               <lb n="1"/><g type="spiralL"/> svasti vijayaskandhāvārād devīsarovāsakāt prasabhapraṇatāmitrāṇā<unclear>ṁ</unclear> maitrakāṇām atulabalasaṁpannamaṇḍal<choice><sic>a</sic><corr>ā</corr></choice>bhogasaṁ<lb 
-                   n="2" break="no"/>saktaprahāraśatalabdhapratāpāt pratāpopanatadānamānārjjavopārjjitānurāgād anuraktamaulabhṛtaśreṇ<choice><sic>ipā</sic><corr>ība</corr></choice>lāvāpta<lb 
-                   n="3" break="no"/>rājyaśriyaḫ paramamāheśvaraśr<unclear>ī</unclear>bhaṭ<choice><sic>a</sic><corr>ā</corr></choice>rkkād avyavacchinnarājavaṅśān mātāpitṛcaraṇāravindapraṇatipravidhautāśeṣakalmaṣaḥ<lb 
-                   n="4"/>ś<choice><sic>e</sic><corr>ai</corr></choice>śaiśavāt prabhṛti khaḍgadvit<choice><sic>i</sic><corr>ī</corr></choice>yabāhur eva samadaparagajaghaṭāsphoṭanaprakāśitasatvanikaṣas tatprabhāvapra<choice><sic>n</sic><corr>ṇ</corr></choice>atārāticūḍ<choice><sic>a</sic><corr>ā</corr></choice>ra<lb
-                   n="5" break="no"/>tnaprabhāsa<supplied reason="omitted">ṁ</supplied>saktapādanakharaśmisaṁhatis sakalasmṛt<choice><sic>o</sic><corr>i</corr></choice>praṇītamārggasamyakparipālanaprajāhṛdayarañjanānva<supplied reason="omitted">r</supplied>ttharājaśabdaḥ<lb
-                   n="6"/>rūpakāntisthairyyadhairyyagāmbhīryyabuddhisa<choice><sic>ṣ</sic><corr>ṁ</corr></choice>padbhis smaraśaśāṅkādrirājodadhitridaśagurudhaneśān atiśayāna<supplied reason="omitted">ḥ</supplied> śaraṇā<choice><sic>ś</sic><corr>g</corr></choice>atābhaya<lb 
-                   n="7" break="no"/>pradānaparatayā tṛṇavadapāstāśeṣasvakāryyaphala<supplied reason="omitted">ḥ</supplied> prārtthanādhikārtthapradānānanditavidvatsuhṛtpraṇay<choice><sic>a</sic><corr>i</corr></choice>hṛdayaḥ pāda<lb 
-                   n="8" break="no"/>cārīva sakala<choice><sic>n</sic><corr>bh</corr></choice>uvanamaṇḍalābhogapramodaḫ paramamāheśvaraḥ śrīguhasenas tasya sutas tatpādanakhamayūkhasantānavisṛ<lb
-                   n="9" break="no"/>tajāhnavījalaughaprakṣālitāśeṣakalmaṣaḥ praṇayiśatasahasropajīvyamānasampad rū<choice><sic>b</sic><corr>p</corr></choice>alobhād ivāśritaḥ sarabhasam ā<lb   
-                   n="10" break="no"/>bhigāmikair gguṇais sahajaśaktiśikṣāviśeṣavismā<surplus>tā</surplus>pitākhilabaladhanurddharaḫ prathamanarapatisamatisṛṣṭā<supplied reason="omitted">nā</supplied>m anupālayitā<lb 
-                   n="11"/>dharmmadāyānā<surplus>ṁ</surplus>m apākarttā praj<choice><sic>ā</sic><corr>o</corr></choice>paghātakāriṇām upaplavānāṁ darśayitā śrīsarasvatyor ekādhivāsasya s<choice><sic>ya</sic><corr>aṁ</corr></choice>hatārātipakṣala<lb 
-                   n="12" break="no"/>kṣm<unclear>ī</unclear><choice><sic>b</sic><corr>p</corr></choice>aribhogadakṣavikram<choice><sic>ā</sic><corr>o</corr></choice> vikramopasaṁprāptavimalaprārtthivaśrīḥ paramamāhe<choice><sic>n</sic><corr>ś</corr></choice>v<choice><sic>e</sic><corr>a</corr></choice>raḥ śrīdharas<choice><sic>o</sic><corr>e</corr></choice>nas tasya sutas tatpādānu<lb 
-                   n="13" break="no"/><unclear>ddhyā</unclear>tas sakala<choice><sic>di</sic><corr>ja</corr></choice>gadānandanātya<unclear>d</unclear>bhutaguṇasamuda<supplied reason="omitted">ya</supplied>sthagitasamagradigmaṇḍalas samaraśatavijayaśobhāsanāthamaṇḍalāgra<lb 
-                   n="14" break="no"/>dyutibhāsuratarānsapīṭhodūḍhagurumanoratham<choice><sic>ā</sic><corr>a</corr></choice>hābhāras sarvvavidyāparāvaravibhāgādhigamavimalamatir api sarvva<lb 
-                   n="15" break="no"/>tas subhāṣitalavenāpi sukh<unclear>o</unclear>papādanīyaparitoṣas samagralokāgādhagāmbhīryyahṛdayo pi sucaritātiśayasu<lb
-                   n="16" break="no"/>vyaktaparamakaly<choice><sic>a</sic><corr>ā</corr></choice>ṇasvabhāvaḥ khil<choice><sic>i</sic><corr>ī</corr></choice>bhūtakṛtayuganṛpatipathaviśodhanādhigatodagrakīrttir dharmmā<choice><sic>m</sic><corr>n</corr></choice>uparodho<supplied reason="omitted">j</supplied>jvalata<lb
-                   n="17" break="no"/>rīkṛtārtthasukhasampadupasevānirūḍhadharmmādityadvitīyanāmā paramamāheśvaraḥ śrīśīlādityaẖ kuśalī sarvvān e<lb
+               <lb n="1"/><unclear><g type="spiralL"/></unclear> svasti vijayaskandhāvārād ujjayanīvāsakāt prasabhapraṇatāmitrāṇāṁ maitrakāṇām atulabalasaṁpannamaṇḍalābhogasaṁsaktaprahāraśa<lb 
+                   n="2" break="no"/><unclear>ta</unclear>labdhapratāpāt pratāpopanatadānamānārjjavopārjjitānurāgād anuraktam<unclear>au</unclear>labhṛtaśreṇībalāvāptarājyaśriyaḥ paramamāhe<lb 
+                   n="3" break="no"/>śvaraśrībhaṭārkkād avyavacchinnarājavaṅśān mātāpitṛcaraṇāravindapraṇa<surplus>ṁ</surplus>tipravidhautāśeṣakalmaṣaḥ śaiśavāt prabhṛti khaḍgadvitīyabā<lb 
+                   n="4" break="no"/>hur eva samadaparagajaghaṭāsphoṭanaprakāśitasatvanikaṣas tatprabhāvapraṇatārāticūḍāratnaprabhāsaṁsaktapādanakharaśmisaṁhatiḥ<lb
+                   n="5"/>sakalasmṛtipraṇītamārggasamyakparipālanaprajāhṛdayarañjanānvarttharājaśabdaḥ rūpakāntisthairyyadhairyyagāmbhīryyabuddhisaṁ<lb
+                   n="6" break="no"/>padbhiḥ smaraśaśāṅkādrirājodadhitridaśagurudhaneśān atiśayānaś śaraṇāgatābhayapradānaparatayā tṛṇavadapāstāśe<surplus>k</surplus>ṣasvakā<lb 
+                   n="7" break="no"/>ryya<surplus>ḥ</surplus>phala<supplied reason="omitted">ḥ</supplied> prārtthanādhikārtthapradānānanditavidvatsuhṛtpraṇayihṛdayaḥ pādacārīva sakalabhuvanamaṇḍalābhogapramo<lb 
+                   n="8" break="no"/>daḥ paramamāheśvaraḥ śrīguhasenas tasya sutas tatpādanakhamayūkhasantānavisṛtajāhnavījalaughaprakṣālitāśeṣakalma<lb
+                   n="9" break="no"/>ṣaḥ praṇayiśatasahasropajīvyamānasampad rūpalobhād ivāśritaḥ sarabhasam ābhigāmikair gguṇais sahajaśaktiśikṣā<lb   
+                   n="10" break="no"/>viśeṣavismāpitākhilabaladhanurddharaḥ prathamanarapatisamatisṛṣṭānām anupālayitā dharmmadāyānām apākarttā<lb 
+                   n="11"/>praj<unclear>o</unclear>paghātakāriṇām upaplavānāṁ <surplus>n</surplus>darś<choice><sic>i</sic><corr>a</corr></choice>yitā śrīsarasv<choice><sic>ā</sic><corr>a</corr></choice>tyor e<choice><sic>r</sic><corr>k</corr></choice>ādhi<choice><sic>bh</sic><corr>v</corr></choice>āsasya saṁhatārātipakṣalakṣmīparibhogadakṣavikra<unclear>mo</unclear><lb 
+                   n="12"/>vikramopasaṁprāptavimalaprārtthivaśrīḥ paramamāheśvaraḥ śrīdharasenas tasya sutas tatpādānuddhyātas sakalajagadānandanātya<unclear>d</unclear>bhu<lb 
+                   n="13" break="no"/>taguṇasamudaya<surplus>ḥ</surplus>sthagitasamagradigmaṇḍalaḥ samaraśatavijayaśobh<choice><sic>o</sic><corr>ā</corr></choice>sanāthamaṇḍalāgradyutibhāsuratarānsapīṭhodū<unclear>ḍha</unclear><lb 
+                   n="14" break="no"/>gurumanorathamahābhāras sarvvavidyāparā<choice><sic>p</sic><corr>v</corr></choice>aravibhāgādhigamavimalamatir api sarvvatas subhāṣitalavenāpi sukhopapādanī<lb 
+                   n="15" break="no"/>yaparitoṣaḥ samagralokāgādhagāmbhīryyahṛdayo pi sucaritātiśayasuvyaktaparamakaly<choice><sic>a</sic><corr>ā</corr></choice>ṇasvabhāvaḥ khilībhūtakṛtayuga<lb
+                   n="16" break="no"/>nṛpatipathaviśodhanādhigatodagrakīrttir ddharmmānuparodho<supplied reason="omitted">j</supplied>jvalatarīkṛtārtthasukhasampadupasevānirūḍhadharmmādityadvitī<lb
+                   n="17" break="no"/>yanāmā paramamāheśvara<unclear>ḥ</unclear> śrīśīlā<unclear>d</unclear>ityas 
+                   kuśalī sarvvān e<lb
                    n="18" break="no"/>vāyuktakaviniyuktakadrāṅgikamahattaraśaulkikacauroddharaṇikacāṭabhaṭakumārāmātyādīn anyānś ca yathāsamba<lb
                    n="19" break="no"/>dhyamānakān samājñāpayaty <unclear>a</unclear>stu vas saṁviditaṁ yathā mayā mātāpitr<choice><sic>a</sic><corr>o</corr></choice><unclear>ḫ p</unclear>uṇyāpy<choice><sic>a</sic><corr>ā</corr></choice>yanāya bhadre
             <pb n="2r"/>
