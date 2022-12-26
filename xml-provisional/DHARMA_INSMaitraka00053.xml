@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -100,7 +100,7 @@
                    n="10" break="no"/>ladhanurddharaḫ prathamanarapatisamatisṛ<choice><sic>p</sic><corr>ṣ</corr></choice>ṭānām anupālayitā dharmmadāyānām apākarttā prajopaghātakāriṇām upaplavānā<unclear>ṁ</unclear><lb 
                    n="11"/>darśayitā śrīsarasvatyor ekādhivāsasya saṁhatārātipakṣalakṣm<choice><sic>i</sic><corr>ī</corr></choice>paribhogadakṣavikramo vikramopasaṁprāptavimalap<surplus>r</surplus>ārtthiva<lb 
                    n="12" break="no"/>śrī<supplied reason="omitted">ḥ</supplied> paramamāheśvaraḥ śrīdharasenas tasya sutas tatpādānuddhyātas sakalajagadānandanātyadbhutaguṇasamudayasthagitasama<lb 
-                   n="13" break="no"/>gradi<choice><sic><space type="other"/></sic><corr>ṅma</corr></choice>ṇḍalaḥ samaraśatavijayaśobhāsanāthamaṇḍalāgradyut<unclear>i</unclear>bhāsuratarānsap<unclear>īṭho</unclear>dūḍhagurumanorathama<surplus>ṁ</surplus>hābhāras sa<lb 
+                   n="13" break="no"/>gradi<choice><sic><space type="unclassified"/></sic><corr>ṅma</corr></choice>ṇḍalaḥ samaraśatavijayaśobhāsanāthamaṇḍalāgradyut<unclear>i</unclear>bhāsuratarānsap<unclear>īṭho</unclear>dūḍhagurumanorathama<surplus>ṁ</surplus>hābhāras sa<lb 
                    n="14" break="no"/>rvvavidyāparāvaravibhāgā<unclear>dhi</unclear>gamavimalamatir api sarvvata<unclear>s su</unclear>bh<unclear>ā</unclear><gap reason="illegible" quantity="1" unit="character"/><unclear>tala</unclear>ve<unclear>nā</unclear>pi sukhopapādanīyaparit<choice><sic>rā</sic><corr>o</corr></choice>ṣaḥ samagralokāgā<lb 
                    n="15" break="no"/>dhagāmbhīryyahṛdayo pi sucaritātiśayasuvyaktaparamaka<unclear>l</unclear>y<choice><sic>on</sic><corr>āṇ</corr></choice>asvabhāvaḥ khilībhūtakṛtayuganṛpatipathaviśodha<lb
                    n="16" break="no"/>nādhigatodagrakīrtti<supplied reason="omitted">ḥ</supplied> dharmmānuparodho<supplied reason="omitted">j</supplied>jvalatarīkṛtārtthas<unclear>u</unclear>khasaṁpadupasevānirūḍha<unclear>dha</unclear>rmmādityadvit<choice><sic>i</sic><corr>ī</corr></choice>yanāmā paramamāheśva<lb
