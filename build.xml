@@ -50,10 +50,10 @@
         <regexpmapper from="EDITED_(.*).xml" to="\1.html"/>
     </xslt>
 
-    <xslt force="true" style="./project-documentation/stylesheets/mdt_inscriptions/mdtText-display.xsl" destdir="./workflow-output/mdt" extension=".html" useImplicitFileset="false" classpath="./project-documentation/editorialStylesheets/pipelineTools/saxon9he.jar">
+   <!--  <xslt force="true" style="./project-documentation/stylesheets/mdt_inscriptions/mdtText-display.xsl" destdir="./workflow-output/mdt" extension=".html" useImplicitFileset="false" classpath="./project-documentation/editorialStylesheets/pipelineTools/saxon9he.jar">
         <fileset refid="mdtFiles"/>
         <factory name="net.sf.saxon.TransformerFactoryImpl"/>
-    </xslt>
+    </xslt>-->
 
     <!-- supprimer les fichiers résultant des étapes intermédiaires -->
     <!--<delete dir="./texts/editedxml"/>-->
