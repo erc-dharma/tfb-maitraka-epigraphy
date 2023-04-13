@@ -47,7 +47,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>Confirmation of a former, interrupted grant of a tax(?) named gu[ḍ]ā[dā]na, as well as a new regular donation of a certain amount of money in favour of the goddess Koṭṭammahikā.</summary>
+                  <summary>Confirmation of a former, interrupted grant of a tax(?) named <foreign>guḍādāna</foreign>, as well as a new regular donation of a certain amount of money in favour of the goddess Koṭṭammahikā.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -79,7 +79,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change who="part:ansc" when="2023-04-12" status="draft">Initial encoding of the file&gt;</change>
+         <change who="part:ansc" when="2023-04-13" status="draft">Initial encoding of the file&gt;</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
@@ -88,10 +88,10 @@
             <pb n="1r"/>
             <p>
             <pb n="1v"/>
-               <lb n="1"/><supplied reason="lost"><g type="spiralL"/> sva</supplied><unclear>sti</unclear> vijayaskandhāvārāT <unclear>pre</unclear>pāgabhad<unclear>y</unclear>akavāsakāT prasabhapraṇatāmitrāṇāṁ maitrakāṇām atulabalasaṁpannamaṇḍalābhogasaṁsakta<unclear>pra</unclear>hāra<lb 
-                   n="2" break="no"/>śatalabdhapratāpāt pra<unclear>tā</unclear>popana<unclear>ta</unclear>dānamānārjjavopārjjitānurāgād anuraktamaulabhṛtaśreṇībalāvāptarājyaśr<unclear>i</unclear>ya<unclear>ḥ</unclear> paramamāhe<lb 
-                   n="3" break="no"/>śvara<surplus>ḥ</surplus>śrī<unclear>bha</unclear>ṭārkkād <unclear>avyava</unclear>cchinnarājavaṅśān mātāpitṛ<unclear>cara</unclear>ṇāravindapraṇatipravidhautāśeṣakalmaṣa<unclear>ḥ</unclear> śaiśavāt prabhṛti khaḍgadvitīya<unclear>bāhu</unclear>r eva<lb
-                   n="4" break="no"/>sama<unclear>da</unclear>paragajaghaṭāsph<unclear>o</unclear>ṭanaprakāśitasatvanikaṣas tatprabhāvapraṇatārāticūḍāratnaprabhāsaṁsaktapādanakharaśmi<unclear>saṅhatis sakalasmṛ</unclear>tipra<unclear>ṇī</unclear><lb
+               <lb n="1"/><g type="spiralL"/> svast<choice><sic>a</sic><corr>i</corr></choice> vijayavalabhītaḥ prasabhapraṇatāmitrāṇāṁ m<choice><sic>a</sic><corr>ai</corr></choice>trakāṇām atulabalasampannamaṇḍalābhogasaṁsaktapra<unclear>hā</unclear>raśata<lb 
+                   n="2" break="no"/>labdhapratāpāt pratāp<choice><sic>au</sic><corr>o</corr></choice>panatadānamānārjjavopārjjitānurāgād anuraktamaulabhṛtaśreṇībalāvāptarājyaśriyaḥ para<supplied reason="omitted">ma</supplied>māhe<lb 
+                   n="3" break="no"/>śvaraśrībhaṭ<choice><sic>a</sic><corr>ā</corr></choice>rkkād avyavacchinnarājavaṅśān mātāpitṛcaraṇāravindapraṇatipravidhautāśeṣakalmaṣaḥ śaiśavā<supplied reason="omitted">t</supplied> pra<choice><sic>k</sic><corr>bh</corr></choice>ṛti khaḍgadvit<choice><sic>i</sic><corr>ī</corr></choice>ya<lb
+                   n="4" break="no"/>bāhur eva sama<unclear>da</unclear>paragajaghaṭāsph<unclear>o</unclear>ṭanaprakāśitasatvanikaṣas tatprabhāvapraṇatārāticūḍāratnaprabhāsaṁsaktapādanakharaśmi<unclear>saṅhatis sakalasmṛ</unclear>tipra<unclear>ṇī</unclear><lb
                    n="5" break="no"/>tamārggasamya<unclear>k</unclear>paripālanaprajāhṛdayarañjanānvarttharājaśabdo rūpakāntisthairyyagāmbhīryyabuddhisampadbhiḥ smaraśaśāṅkāddrirājodadhi<unclear>trida</unclear>śagu<lb 
                    n="6" break="no"/>rudhaneśān <unclear>atiśayā</unclear>naḥ śaraṇāgatābha<unclear>ya</unclear>pradānaparata<unclear>yā</unclear> tṛṇavadapāstāśeṣasvakāryyaphala<supplied reason="omitted">ḥ</supplied> prārtthanādhi<unclear>kārtthapradānānanditavidva</unclear>tsuhṛ<lb 
                    n="7" break="no"/>tpraṇayihṛdayaḫ pā<unclear>da</unclear>cārīva sakalabhuvanamaṇḍalābhogapramodaḥ paramamāheśvaraḥ śrīguhasenas tasya su<unclear>tas tatpādanakhamayūkhasa</unclear>ntāna<lb
