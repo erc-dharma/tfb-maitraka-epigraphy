@@ -2,8 +2,8 @@
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!--xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -92,7 +92,7 @@
                    n="2" break="no"/>śatalabdhapratāpāt pra<unclear>tā</unclear>popana<unclear>ta</unclear>dānamānārjjavopārjjitānurāgād anuraktamaulabhṛtaśreṇībalāvāptarājyaśr<unclear>i</unclear>ya<unclear>ḥ</unclear> paramamāhe<lb 
                    n="3" break="no"/>śvara<surplus>ḥ</surplus>śrī<unclear>bha</unclear>ṭārkkād <unclear>avyava</unclear>cchinnarājavaṅśān mātāpitṛ<unclear>cara</unclear>ṇāravindapraṇatipravidhautāśeṣakalmaṣa<unclear>ḥ</unclear> śaiśavāt prabhṛti khaḍgadvitīya<unclear>bāhu</unclear>r eva<lb
                    n="4"/>sama<unclear>da</unclear>paragajaghaṭāsph<unclear>o</unclear>ṭanaprakāśitasatvanikaṣas tatprabhāvapraṇatārāticūḍāratnaprabhāsaṁsaktapādanakharaśmi<unclear>saṅhatis sakalasmṛ</unclear>tipra<unclear>ṇī</unclear><lb
-                   n="5" break="no"/>tamārggasamya<unclear>k</unclear>paripālanaprajāhṛdayarañjanānvarttharājaśabdo rūpakāntisthairyyagāmbhīryyabuddhisampadbhiḥ smaraśaśāṅkāddrirājodadhi<unclear>trida</unclear>śagu<lb 
+                   n="5" break="no"/>tamārggasamya<unclear>k</unclear>paripālanaprajāhṛdayarañjanānvarttharājaśabdo rūpakāntisthairyyagāmbhīryyabuddhisampadbhiḥ smaraśaśāṅkādrirājodadhi<unclear>trida</unclear>śagu<lb 
                    n="6" break="no"/>rudhaneśān <unclear>atiśayā</unclear>naḥ śaraṇāgatābha<unclear>ya</unclear>pradānaparata<unclear>yā</unclear> tṛṇavadapāstāśeṣasvakāryyaphala<supplied reason="omitted">ḥ</supplied> prārtthanādhi<unclear>kārtthapradānānanditavidva</unclear>tsuhṛ<lb 
                    n="7" break="no"/>tpraṇayihṛdayaḫ pā<unclear>da</unclear>cārīva sakalabhuvanamaṇḍalābhogapramodaḥ paramamāheśvaraḥ śrīguhasenas tasya su<unclear>tas tatpādanakhamayūkhasa</unclear>ntāna<lb
                    n="8" break="no"/>visṛtajāhnavījalaughapra<unclear>kṣā</unclear>litāśeṣakalmaṣaḥ praṇayiśatasahasropajīvyamānasampad rūpalobhād ivā<unclear>śritas sarabha</unclear>sam ā<unclear>bhi</unclear>gāmikai<lb   
