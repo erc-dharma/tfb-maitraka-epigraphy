@@ -2,8 +2,8 @@
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!--xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -93,7 +93,7 @@
                    n="3" break="no"/>ptarājyaśriyaḥ paramamāheśvaraśrībhaṭārkkād avyavacchinnarājavaṅśān mātāpitṛcaraṇāravindapraṇatipravidhautāśe<unclear>ṣa</unclear><lb 
                    n="4" break="no"/>ka<unclear>lmaṣa</unclear>ḥ śaiśavāt prabhṛtikhaḍgadvitīyabāhur eva samadaparagajaghaṭāsphoṭanaprakāśitasatvanikaṣaḥ tatprabhāvapraṇatārā<lb
                    n="5" break="no"/>ticūḍāratnaprabhāsaṁsaktapādanakharaśmisaṅhatiḥ sakalasmṛtipraṇītamārggasamyakparipālanaprajāhṛdayara<choice><sic>jā</sic><corr>ñja</corr></choice><lb
-                   n="6" break="no"/>nānvarttharājaśabdo rūpak<choice><sic>a</sic><corr>ā</corr></choice>ntisthairyyag<choice><sic>a</sic><corr>ā</corr></choice>mbhīryyabuddhisampadbhiḥ smaraśaśāṅkāddrirājodadhit<choice><sic>ṛ</sic><corr>ri</corr></choice>daśagurudhaneśān atiśayānaḥ śaraṇ<choice><sic>a</sic><corr>ā</corr></choice><lb 
+                   n="6" break="no"/>nānvarttharājaśabdo rūpak<choice><sic>a</sic><corr>ā</corr></choice>ntisthairyyag<choice><sic>a</sic><corr>ā</corr></choice>mbhīryyabuddhisampadbhiḥ smaraśaśāṅkā<surplus>d</surplus>drirājodadhit<choice><sic>ṛ</sic><corr>ri</corr></choice>daśagurudhaneśān atiśayānaḥ śaraṇ<choice><sic>a</sic><corr>ā</corr></choice><lb 
                    n="7" break="no"/>gatābhayapradānaparatayā tṛṇavadapāstāś<choice><sic>a</sic><corr>e</corr></choice>ṣasvakāryyaphala<supplied reason="omitted">ḥ</supplied> prārtthanādhikārtthapradānānanditavidvatsuhṛtpraṇayihṛdaya<supplied reason="omitted">ḥ</supplied><lb 
                    n="8"/>pādacārīva sakalabhuvanamaṇḍalābhogapramodaḥ paramamāheśvaraḥ śrīguhasenas tasya sutas tatp<unclear>ā</unclear>danakhamayūkhasantāna<lb
                    n="9" break="no"/>visṛtajāhnavījalaughaprakṣālitāśeṣakalmaṣaḥ praṇayiśatasahasr<unclear>o</unclear>pa<surplus>r</surplus>j<choice><sic>a</sic><corr>ī</corr></choice>vyamānasampad rūpal<choice><sic>ā</sic><corr>o</corr></choice>bhād ivāśritaḥ sa<lb   
