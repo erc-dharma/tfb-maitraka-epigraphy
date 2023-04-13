@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Valabhipur plates of Dhruvasena II, [Valabhī] year 319, Jyeṣṭha śu 7</title>
+            <title>Bhamodra Mohota plates of Dhruvasena II, [Valabhī] year 320, Āṣāḍha śu. 1</title>
             <respStmt>
                <resp>EpiDoc Encoding</resp>
                <persName ref="part:ansc">
@@ -27,7 +27,7 @@
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Berlin</pubPlace>
-            <idno type="filename">DHARMA_INSMaitraka00068</idno>
+            <idno type="filename">DHARMA_INSMaitraka00069</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -47,7 +47,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>Grant of a village in favour of a Buddhist monastery (nunnery).</summary>
+                  <summary>Confirmation of a former, interrupted grant of a tax(?) named gu[ḍ]ā[dā]na, as well as a new regular donation of a certain amount of money in favour of the goddess Koṭṭammahikā.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
