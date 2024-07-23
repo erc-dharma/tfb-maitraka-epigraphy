@@ -2,8 +2,8 @@
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!--xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -101,7 +101,7 @@
                    n="11" break="no"/><unclear>ṣita</unclear>phalopabhogadaḥ paramabhāga<gap reason="illegible" quantity="1" unit="character"/>taḫ paramabhaṭ<choice><sic>y</sic><corr>ṭ</corr></choice>ārakapādānudhyāto mahāsāma<unclear>nta</unclear><lb 
                    n="12" break="no"/>mahārājadhruvasenaẖ kuśalī sa<unclear>r</unclear>vv<unclear>ā</unclear><gap reason="illegible" quantity="1" unit="character"/>va svān āyuktakaviniyuktakadrā<supplied reason="omitted">ṅ</supplied>gikamahattaracāṭa<lb 
                    n="13" break="no"/><unclear>bha</unclear>ṭadhruvasthānādhikaraṇikadāṇḍapā<gap reason="illegible" quantity="1" unit="character"/>kādīn anyāṁś ca yathāsaṁ<unclear>ba</unclear>dhyamānakān anudarśayaty a<lb 
-                   n="14" break="no"/><gap reason="illegible" quantity="4" unit="character"/><unclear>d</unclear>itaṁ yathā hastavaprāhar<choice><sic>ā</sic><corr>a</corr></choice>ṇyāṁ kalahāṭakagrāmaḫ pūrvvabhuktabhujya<unclear>mā</unclear>nakaḥ
+                   n="14" break="no"/><gap reason="undefined" quantity="1" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><unclear>d</unclear>itaṁ yathā hastavaprāhar<choice><sic>ā</sic><corr>a</corr></choice>ṇyāṁ kalahāṭakagrāmaḫ pūrvvabhuktabhujya<unclear>mā</unclear>nakaḥ
             <pb n="2r"/>
                <lb n="15"/><gap reason="illegible" quantity="4" unit="character" precision="low"/><unclear>nagaravāsta</unclear>vyabrāhma<unclear>ṇavi</unclear>śvada<unclear>tta</unclear>vasu<unclear>da</unclear>ttābhyāṁ bharadvājasagotrābhyāṁ <gap reason="illegible" quantity="2" unit="character" precision="low"/><lb
                    n="16" break="no"/><gap reason="illegible" quantity="4" unit="character" precision="low"/><unclear>brahma</unclear>cāribhyāṁ mayā mātāpi<unclear>troḥ pu</unclear>ṇyāpyāyanāyātma<unclear>na</unclear>ś caihikāmuṣmikayathābh<choice><sic>ī</sic><corr>i</corr></choice><lb
