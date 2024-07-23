@@ -2,8 +2,8 @@
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -118,7 +118,7 @@
                    n="27" break="no"/>na vyāsena <g type="dashDouble">~</g> <choice><sic>ś</sic><corr>ṣ</corr></choice>aṣṭivarṣasahasrāṇi svargge tiṣṭhati bhūmidaḥ <choice><sic>A</sic><corr>Ā</corr></choice>cchettā cānumantā ca tān<supplied reason="omitted">y</supplied> eva narake vaseT <g type="dashDouble">~</g> pūrvva<choice><sic>t</sic><corr>d</corr></choice>tattāṁ<lb
                    n="28"/>dvijātibhyo yatnād rakṣa yudhiṣṭhira <g type="dandaPlain">.</g> mah<choice><sic>i</sic><corr>ī</corr></choice><supplied reason="omitted">ṁ</supplied> mahimatāṁ śreṣṭha dānāc chreyo nupālanaṁ bahubhi<lb
                    n="29" break="no"/>r vvasudhā bhuktā rājabhi<supplied reason="omitted">ḥ</supplied> sagarādibhiḥ yasya yasya yadā bhūmi<unclear>s ta</unclear>sya tasya tadā pha<lb
-                   n="30" break="no"/>lam iti <g type="ddandaPlain">.</g> likhitaṁ sandhivi<surplus>r</surplus>grahādhikṛtaskandabhaṭena <g type="ddandaPlain">.</g> <abbr>dū</abbr> <unclear><g type="dashDouble">~</g></unclear> ccibbiraḥ <g type="ddandaPlain">.</g> <abbr>saṁ</abbr> <num value="252"><g type="numeral">200</g> <g type="numeral">50</g> 2</num> vaiśākha <abbr>ba</abbr> <num value="15"><g type="numeral">10</g> 5</num><lb
+                   n="30" break="no"/>lam iti <g type="ddandaPlain">.</g> likhitaṁ sandhivi<surplus>r</surplus>grahādhikṛtaskandabhaṭena <g type="ddandaPlain">.</g> <abbr>dū</abbr> <unclear><g type="dashDouble">~</g></unclear> ccibbiraḥ <g type="ddandaPlain">.</g> <abbr>saṁ</abbr> <num value="252">200 50 2</num> vaiśākha <abbr>ba</abbr> <num value="15">10 5</num><lb
                    n="31" break="no"/><unclear>sva</unclear>hasto mama mahā<unclear>rāja</unclear>śrīdharasenasya <g type="ddandaPlain">.</g> <g type="dashDouble">~</g> 
             </p>                           
          </div>

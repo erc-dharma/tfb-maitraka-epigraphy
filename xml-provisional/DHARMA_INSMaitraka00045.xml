@@ -2,8 +2,8 @@
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -124,7 +124,7 @@
                    n="33" break="no"/>rmmāyatanīkṛtāni nirbbhuktamālyapratimāni tāni ko nāma sādhuḫ punar ādadīta <g type="ddandaPlain">.</g> ṣaṣṭiṁ varṣasa<lb
                    n="34" break="no"/>hasrāṇi svargge mo<choice><sic>deta</sic><corr>dati</corr></choice> bhūmidaḥ Ācchettā cānumantā ca tāny eva narake vaseT <g type="ddandaPlain">.</g> dūtakaś c<unclear>ā</unclear><lb
                    n="35" break="no"/>tra bhaṭṭādityayaśāḥ likhitaṁ sandhivigrahādhikṛtadiv<choice><sic><unclear>ī</unclear></sic><corr>i</corr></choice>rapativatrabhaṭṭinā <g type="ddandaPlain">.</g> <g type="spiralL"/><lb
-                   n="36"/><abbr>saṁ</abbr> <num value="286"><g type="numeral">200</g> <g type="numeral">80</g> 6</num> Āṣāḍha <abbr>ba</abbr> <num value="8">8</num> <g type="ddandaPlain">.</g> <unclear><g type="spiralL"/></unclear><lb
+                   n="36"/><abbr>saṁ</abbr> <num value="286">200 80 6</num> Āṣāḍha <abbr>ba</abbr> <num value="8">8</num> <g type="ddandaPlain">.</g> <unclear><g type="spiralL"/></unclear><lb
                    n="37"/>svahasto mama <g type="ddandaPlain">.</g>
             </p>                           
          </div>

@@ -2,8 +2,8 @@
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -125,7 +125,7 @@
                    n="34" break="no"/>bhagavatā vedavyāsena vyāsena bahubhir vvasudhā bhuktā r<choice><sic>a</sic><corr>ā</corr></choice>jabhis sagarādibhiḥ yasya yasya yadā bhūmiḥ tasya<lb
                    n="35"/>tasya tadā phalaṁ <unclear>yānīha</unclear> dāridryabhayān narendrair ddhanāni dharmmāyatanīkṛtāni nirbhuktamālyapratimāni tāni<lb
                    n="36" break="no"/>ko nāma sādhuḫ punar ādadīta <g type="dashDouble">~</g> ṣaṣṭivarṣasahasrāṇi svargge modati bhūmidaḥ Āc<choice><sic>c</sic><corr>ch</corr></choice>ettā cānumantā ca tāny eva<lb
-                   n="37" break="no"/><unclear>na</unclear>rake vased iti dūtakaś cātra śrīkharagrahaḥ likhitaṁ sandhivigrahādhikṛtadivirapativatrabhaṭṭinā <abbr>saṁ</abbr> <num value="290"><g type="numeral">200</g> 90</num><lb
+                   n="37" break="no"/><unclear>na</unclear>rake vased iti dūtakaś cātra śrīkharagrahaḥ likhitaṁ sandhivigrahādhikṛtadivirapativatrabhaṭṭinā <abbr>saṁ</abbr> <num value="290">200 90</num><lb
                    n="38" break="no"/>Aśvayuja <abbr>ba</abbr> <num value="10">10</num> s<unclear>va</unclear>vahasto mama <g type="ddandaPlain">.</g>
             </p>                           
          </div>

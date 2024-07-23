@@ -2,8 +2,8 @@
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<!--xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?-->
+<!--xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -132,7 +132,7 @@
                    n="41" break="no"/><unclear>nta</unclear>vyaḫ paripālayitavyaś cety ukta<unclear>ṁ</unclear> ca bahubhir vvasudhā bhuktā rājabhis sagarādibhiḥ yasya yasya yadā bhūmis tasya tasya <unclear>ta</unclear>dā phalaM<lb
                    n="42"/><unclear>yānī</unclear>ha dāridryabha<unclear>yā</unclear>n narendrair ddha<unclear>nā</unclear>ni dharmmāyatanīkṛtāni nirbhuktamālyapratimāni tāni ko nāma sādhuḫ punar ādad<unclear>ī</unclear>ta ṣa<unclear>ṣṭi</unclear>varṣasa<lb
                    n="43" break="no"/><unclear>ha</unclear>s<unclear>r</unclear>āṇi svargge tiṣṭhati bhū<unclear>mi</unclear>daḥ Ācchettā cānumantā ca tāny eva narake vaseT <g type="dandaPlain">.</g> dūtako tra sā<surplus>ṁ</surplus>mantaśīlādityaḥ likhitam <unclear>i</unclear>daṁ<lb
-                   n="44"/><unclear>saṁdhivigra</unclear>hādhikṛtadivirapativatrabhaṭṭiputradivirapatiska<unclear>ndabha</unclear>ṭena <abbr>saṁ</abbr> <num value="319"><g type="numeral">300</g> <g type="numeral">10</g> 9</num> jyeṣṭha <abbr>śu</abbr> <num value="7">7</num> svahasto mama <g type="dandaHooked">.</g><g type="ddandaPlain">.</g>
+                   n="44"/><unclear>saṁdhivigra</unclear>hādhikṛtadivirapativatrabhaṭṭiputradivirapatiska<unclear>ndabha</unclear>ṭena <abbr>saṁ</abbr> <num value="319">300 10 9</num> jyeṣṭha <abbr>śu</abbr> <num value="7">7</num> svahasto mama <g type="dandaHooked">.</g><g type="ddandaPlain">.</g>
             </p>                           
          </div>
          <div type="apparatus">

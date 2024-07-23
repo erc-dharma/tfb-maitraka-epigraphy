@@ -2,8 +2,8 @@
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -120,7 +120,7 @@
                    n="29"/><unclear>mahīṁ mahimatāṁ</unclear> <unclear><g type="dandaPlain">.</g></unclear> śreṣṭha dānāc chreyo nupālana<unclear>M</unclear> <g type="ddandaPlain">.</g> yānīha dāridrabhayān narendrair ddhanāni dharmmāyatanī<lb
                    n="30" break="no"/>kṛtāni <unclear><g type="dandaPlain">.</g></unclear> nirmmālyavāntapratimāni tāni ko nāma sādhuḫ punar ādadīta <g type="ddandaPlain">.</g> bahubhir vvasudhā <supplied reason="omitted">bhuktā</supplied> rājabhis sagarā<lb
                    n="31" break="no"/><unclear>dibhiḥ <g type="dandaPlain">.</g></unclear> yasya yasya ya<unclear>dā bhūmiḥ</unclear> tasya tasya tadā phalam iti <g type="dandaPlain">.</g> likhitaṁ sandhivigrahādhikṛtaskandabhaṭena <g type="ddandaPlain">.</g><lb
-                   n="32"/><unclear>svahasto mama mahārāja</unclear>śrīdharasenasya <g type="ddandaPlain">.</g> <abbr>dū</abbr> cirb<unclear>i</unclear>raḥ <g type="ddandaPlain">.</g> <abbr>saṁ</abbr> <num value="257"><g type="numeral">200</g> <g type="numeral">50</g> 7</num> vaiśākha <abbr>ba</abbr> <num value="15"><g type="numeral">10</g> 5</num> 
+                   n="32"/><unclear>svahasto mama mahārāja</unclear>śrīdharasenasya <g type="ddandaPlain">.</g> <abbr>dū</abbr> cirb<unclear>i</unclear>raḥ <g type="ddandaPlain">.</g> <abbr>saṁ</abbr> <num value="257">200 50 7</num> vaiśākha <abbr>ba</abbr> <num value="15">10 5</num> 
             </p>                           
          </div>
          <div type="apparatus">

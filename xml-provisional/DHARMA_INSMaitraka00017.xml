@@ -2,8 +2,8 @@
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -115,7 +115,7 @@
                    n="24"/>sopapātakais saṁyuktas syād api cc<choice><sic>a</sic><corr>ā</corr></choice>tra vyc<choice><sic>a</sic><corr>ā</corr></choice>sag<choice><sic>i</sic><corr>ī</corr></choice>t<unclear>ā</unclear>ś ślokā bhavanti <unclear>b</unclear>ahubhir vvasudh<choice><sic>a</sic><corr>ā</corr></choice> bhuktā<lb
                    n="25"/>r<choice><sic>a</sic><corr>ā</corr></choice>jabhis sagarādibhiḥ yasya yasya yadā bhūmis tasya tasya tadā phalaṁ ṣaṣṭiṁ varṣasahasr<choice><sic>a</sic><corr>ā</corr></choice>ṇi<lb
                    n="26"/>svargge moda<unclear>t</unclear>i bhūmidaḥ Ācchettā cānumantā ca tāny e<supplied reason="omitted">va</supplied> narake vaseT vi<supplied reason="omitted">n</supplied><choice><sic>d</sic><corr>dh</corr></choice>yāṭav<choice><sic>i</sic><corr>ī</corr></choice>iṣv atoyāsu<lb
-                   n="27"/>śuṣkakoṭaravāsinaḥ kṛṣṇāhayo hi jāyante brahmad<choice><sic>a</sic><corr>ā</corr></choice>yaṁ  haranti ye <abbr>saṁ</abbr> <num value="210"><g type="numeral">200</g> 10</num> bhadrapada <abbr>ba</abbr> <num value="13"><g type="numeral">10</g> 3</num><lb
+                   n="27"/>śuṣkakoṭaravāsinaḥ kṛṣṇāhayo hi jāyante brahmad<choice><sic>a</sic><corr>ā</corr></choice>yaṁ  haranti ye <abbr>saṁ</abbr> <num value="210">200 10</num> bhadrapada <abbr>ba</abbr> <num value="13">10 3</num><lb
                    n="28"/>svahasto mama mah<choice><sic>a</sic><corr>ā</corr></choice>sāmantamahārājadhruvasenasya dūtakaḥ rudradharaḥ likhitaṁ kikkakena
             </p>            
          </div>

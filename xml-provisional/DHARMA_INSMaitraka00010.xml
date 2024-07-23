@@ -2,8 +2,8 @@
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader xml:lang="eng">
       <fileDesc>
@@ -115,8 +115,8 @@
                    n="24" break="no"/>mant<choice><sic>a</sic><corr>ā</corr></choice> ca tāny eva narake vaseT svadatt<choice><sic>a</sic><corr>ā</corr></choice><supplied reason="omitted">ṁ</supplied> paradattāṁ vā yo hareta vasundharāṁ gavāṁ śatasaha<supplied reason="omitted">sra</supplied>sya hantuḥ prapnoti<lb
                    n="25"/>kilbiṣaM yānīha d<surplus>r</surplus>āridr<supplied reason="omitted">y</supplied>a<choice><sic>n</sic><corr>bh</corr></choice>ayān nar<choice><sic>a</sic><corr>e</corr></choice>ndraiḥ dhanāni dharmmāyatanīkṛtāni nirmm<unclear>ā</unclear>lyavāntapratimāni tāni<lb
                    n="26"/>ko nāma sādhuḥ punar ādadāti p<choice><sic>u</sic><corr>ū</corr></choice>rvvadattāṁ dvijātibhyo yatnād ra<supplied reason="omitted">k</supplied>ṣa <choice><sic>b</sic><corr>y</corr></choice>udhiṣṭhira mahīṁ mah<choice><sic>iv</sic><corr>īm</corr></choice>atā<supplied reason="omitted">ṁ</supplied> śreṣṭha<lb
-                   n="27"/>dānāc chreyo nupālanam iti svahasto mama mahāsāmantamahārājadhruvasenasya <abbr>saṁ</abbr> <num value="207"><g type="numeral">200</g> 7</num><lb
-                   n="28"/>dūtakaḥ pratīhāramammakaḥ likhitaṁ kikkaken<choice><sic>a</sic><corr>e</corr></choice>ti vaiśākha <abbr>ba</abbr> <num value="15"><g type="numeral">10</g> 5</num>
+                   n="27"/>dānāc chreyo nupālanam iti svahasto mama mahāsāmantamahārājadhruvasenasya <abbr>saṁ</abbr> <num value="207">200 7</num><lb
+                   n="28"/>dūtakaḥ pratīhāramammakaḥ likhitaṁ kikkaken<choice><sic>a</sic><corr>e</corr></choice>ti vaiśākha <abbr>ba</abbr> <num value="15">10 5</num>
             </p>         
          </div>
          <div type="apparatus">

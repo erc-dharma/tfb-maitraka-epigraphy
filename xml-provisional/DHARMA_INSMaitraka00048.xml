@@ -2,8 +2,8 @@
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -121,7 +121,7 @@
                    n="30" break="no"/>ja<unclear>bhi</unclear>s saga<unclear>rā</unclear>dibhiḥ yasya yasya yad<unclear>ā</unclear> bhūm<unclear>i</unclear>s tasya tasya tadā phalaṁ <g type="ddandaPlain">.</g> yānīha dāridrya<unclear>bha</unclear>yān narendrair ddhanāni <unclear>dha</unclear><lb
                    n="31" break="no"/>rmmāyatanīkṛtāni nirbbhuktam<choice><sic>a</sic><corr>ā</corr></choice>lyapratimāni <unclear>t</unclear>āni k<unclear>o</unclear> nāma sādhuḫ punar ādadīta <g type="ddandaPlain">.</g> ṣaṣṭiṁ <unclear>va</unclear>rṣasahasrāṇi s<unclear>v</unclear>vargg<unclear>e</unclear><lb
                    n="32"/>mo<choice><sic>deta</sic><corr>dati</corr></choice> bh<unclear>ū</unclear>midaḥ Ācchettā cānumant<unclear>ā</unclear> ca t<unclear>ā</unclear>ny eva <unclear>n</unclear>ar<unclear>a</unclear>ke vaset<surplus>a</surplus> <g type="ddandaPlain">.</g> dūtakaś cātra bhaṭṭādityayaś<unclear>āḥ</unclear> likhitaṁ sandhivi<lb
-                   n="33"/><unclear>g</unclear>r<unclear>a</unclear><gap reason="illegible" quantity="1" unit="character"/>dh<unclear>i</unclear>kṛtadiv<choice><sic>ī</sic><corr>i</corr></choice>rapativatrabhaṭṭinā <g type="ddandaPlain">.</g> <abbr>saṁ</abbr> <num value="287"><g type="numeral">200</g> <g type="numeral">80</g> 7</num> kār<unclear>tt</unclear>ika <abbr><unclear>b</unclear>a</abbr> <num value="7">7</num> <g type="ddandaPlain">.</g> <g type="spiralL"/> <g type="ddandaPlain">.</g> svahast<unclear>o</unclear> mama <g type="ddandaPlain">.</g>
+                   n="33"/><unclear>g</unclear>r<unclear>a</unclear><gap reason="illegible" quantity="1" unit="character"/>dh<unclear>i</unclear>kṛtadiv<choice><sic>ī</sic><corr>i</corr></choice>rapativatrabhaṭṭinā <g type="ddandaPlain">.</g> <abbr>saṁ</abbr> <num value="287">200 80 7</num> kār<unclear>tt</unclear>ika <abbr><unclear>b</unclear>a</abbr> <num value="7">7</num> <g type="ddandaPlain">.</g> <g type="spiralL"/> <g type="ddandaPlain">.</g> svahast<unclear>o</unclear> mama <g type="ddandaPlain">.</g>
             </p>                           
          </div>
          <div type="apparatus">

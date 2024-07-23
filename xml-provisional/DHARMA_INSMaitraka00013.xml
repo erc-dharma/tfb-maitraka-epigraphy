@@ -2,8 +2,8 @@
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader xml:lang="eng">
       <fileDesc>
@@ -115,8 +115,8 @@
                    n="24"/>ṣaṣ<choice><sic>ṭh</sic><corr>ṭ</corr></choice>iṁ varṣasahasrāṇi svargge modati bhūmidaḥ Ācchettā cānumantā ca tāny eva narake vaseT<lb
                    n="25"/>svadattā<supplied reason="omitted">ṁ</supplied> paradattāṁ vā yo hareta vasundharāṁ gavāṁ śatasahasrasya hantuḥ prāpnoti kilbiṣaM<lb
                    n="26"/>svahasto mama mahāsāmantamahārājadhruvasenasya dūtakaḥ pratīhāramammakaḥ likhitaṁ kikkakena<lb
-                   n="27"/><abbr>saṁ</abbr> <num value="210"><g type="numeral">200</g> 10</num> śrāvaṇa bahula<lb
-                   n="28"/><num value="13"><g type="numeral">10</g> 3</num>
+                   n="27"/><abbr>saṁ</abbr> <num value="210">200 10</num> śrāvaṇa bahula<lb
+                   n="28"/><num value="13">10 3</num>
             </p>         
          </div>
          <div type="apparatus">

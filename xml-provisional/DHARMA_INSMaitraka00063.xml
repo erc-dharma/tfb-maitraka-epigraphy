@@ -2,8 +2,8 @@
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -136,7 +136,7 @@
                    n="45" break="no"/>pālayitavyaś c<unclear>e</unclear>ty uktañ ca <g type="dandaPlain">.</g> bahubhir vvasudhā bhuktā rājabhis sagarādibhiḥ yasya yasya yadā bhūmis tasya tasya tadā phalaṁ <g type="ddandaPlain">.</g><lb
                    n="46"/>yānīha dāridryabhayān narendrair ddhanāni dharmmāyatanīkṛtāni <g type="dandaPlain">.</g> nir<unclear>bbhukta</unclear>mālyapratimāni tāni ko nāma sādhuḥ punar ādadīta<lb
                    n="47"/>ṣaṣṭiṁ varṣasahasrāṇi svargge modati bhūmidaḥ Ācchettā cānumantā ca tāny e<unclear>va</unclear> narake vaseT <g type="ddandaPlain">.</g> dūtako rājaputraśīlādityaḥ<lb
-                   n="48"/>likhitam idaṁ sandhivigrahādhikṛtadivirapativatrabhaṭṭinā <g type="dandaPlain">.</g> <abbr>saṁ</abbr> <num value="313"><g type="numeral">300</g> <g type="numeral">10</g> 3</num> jyeṣṭha <abbr>śu</abbr> <num value="10">10</num> svahasto mama <g type="dandaHooked">.</g><g type="ddandaPlain">.</g>
+                   n="48"/>likhitam idaṁ sandhivigrahādhikṛtadivirapativatrabhaṭṭinā <g type="dandaPlain">.</g> <abbr>saṁ</abbr> <num value="313">300 10 3</num> jyeṣṭha <abbr>śu</abbr> <num value="10">10</num> svahasto mama <g type="dandaHooked">.</g><g type="ddandaPlain">.</g>
             </p>                           
          </div>
          <div type="apparatus">

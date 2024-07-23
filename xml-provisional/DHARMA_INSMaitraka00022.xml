@@ -2,8 +2,8 @@
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -121,7 +121,7 @@
                    n="30"/>narake vaseT svadattāṁ parad<choice><sic>ā</sic><corr>a</corr></choice>ttāṁ vā yo hareta vasundharāṁ <choice><sic>ś</sic><corr>g</corr></choice>avāṁ <choice><sic>g</sic><corr>ś</corr></choice>atasahasrasya hantuḥ prāpnoti<lb
                    n="31"/>kilbiṣa<supplied reason="omitted">ṁ</supplied> bahubhir vvasudhā bhuk<choice><sic>k</sic><corr>t</corr></choice>ā rājabhis sagarādibhiḥ yasya yasya yadā bhūmiḥ tasya tasya <gap reason="illegible" quantity="2" unit="character"/><lb
                    n="32"/>phala<supplied reason="omitted">M</supplied> <g type="ddandaPlain">.</g> svahasto mama mahārājaśrīdhruvasenasya dūtakas <unclear>sū</unclear>pakārāpatibhaṭṭiḥ likhitaṁ kikkakeneti<lb
-                   n="33"/><abbr>saṁ</abbr> <num value="221"><g type="numeral">200</g> <g type="numeral">20</g> 1</num> Āśvay<choice><sic>a</sic><corr>u</corr></choice>ja <abbr>ba</abbr> <num value="3">3</num> 
+                   n="33"/><abbr>saṁ</abbr> <num value="221">200 20 1</num> Āśvay<choice><sic>a</sic><corr>u</corr></choice>ja <abbr>ba</abbr> <num value="3">3</num> 
             </p>                           
          </div>
          <div type="apparatus">

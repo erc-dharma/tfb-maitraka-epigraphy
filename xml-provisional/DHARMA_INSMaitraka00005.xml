@@ -2,8 +2,8 @@
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader xml:lang="eng">
       <fileDesc>
@@ -111,7 +111,7 @@
                    n="24"/>svadattāṁ paradattāṁ vā</l> <l n="b">yo hareta <unclear>va</unclear>sundharā<unclear>M</unclear></l> <l n="c">gavāṁ śatasahasrasya</l> <l n="d">hantuḥ prāpnoti kilbiṣaM</l></lg> <lg n="3" met="anuṣṭubh"><l n="a"><lb 
                    n="25"/>bahubhir vvasudhā bhuktā</l> <l n="b">rājabhis sagarādibhiḥ</l> <l n="c">yasya yasya yadā bhūmis</l> <l n="d">tasya tasya tadā <choice><sic>p</sic><corr>ph</corr></choice>alaM</l></lg> <p><lb
                    n="26"/>svahasto mama mahārājadhruvasenasya <g type="dashPlain">~</g> dūtakaḥ pratīhāramammakaḥ likhitaṁ k<unclear>i</unclear>kkakena<lb 
-                   n="27"/><abbr>saṁ</abbr> <num value="206"><g type="numeral">200</g> 6</num> Āśvayuja śuddha <num value="5">5</num>
+                   n="27"/><abbr>saṁ</abbr> <num value="206">200 6</num> Āśvayuja śuddha <num value="5">5</num>
             </p>
          </div>
          <div type="apparatus">

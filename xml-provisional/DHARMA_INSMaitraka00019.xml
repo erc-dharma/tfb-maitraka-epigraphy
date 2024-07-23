@@ -2,8 +2,8 @@
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -118,7 +118,7 @@
                    n="27" break="no"/>bhiḥ mahāpātakaiḥ <unclear>so</unclear>papātakaiś <surplus>ca</surplus> saṁyuktaḥ syād atra ca vyāsoktaḥ śloko bhavati <g type="ddandaPlain">.</g> svadattāṁ<lb
                    n="28"/>paradattāṁ vā yo hareta vasundharāṁ gavāṁ śatasahasrasya hantuḥ prāpnoti kilbiṣaṁ<lb
                    n="29"/><unclear>svahasto</unclear> mama mahāsāmantamahāpratīhāramahādaṇḍanāyakamahākārttākṛtika<lb
-                   n="30"/>ma<unclear>hā</unclear>rā<unclear>ja</unclear>śrīdhruvasena<unclear>sya</unclear> <gap reason="illegible" quantity="3" unit="character"/> bhogikavaikundhaḥ likhitaṁ kikkakena <g type="ddandaPlain">.</g> <abbr>saṁ</abbr> <num value="216"><g type="numeral">200</g> <g type="numeral">10</g> <unclear>6</unclear></num> māgha <abbr>ba</abbr> <abbr><unclear>di</unclear></abbr> <num value="3"/> 
+                   n="30"/>ma<unclear>hā</unclear>rā<unclear>ja</unclear>śrīdhruvasena<unclear>sya</unclear> <gap reason="illegible" quantity="3" unit="character"/> bhogikavaikundhaḥ likhitaṁ kikkakena <g type="ddandaPlain">.</g> <abbr>saṁ</abbr> <num value="216">200 10 <unclear>6</unclear></num> māgha <abbr>ba</abbr> <abbr><unclear>di</unclear></abbr> <num value="3"/> 
             </p>                           
          </div>
          <div type="apparatus">

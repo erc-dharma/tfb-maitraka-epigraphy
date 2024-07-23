@@ -2,8 +2,8 @@
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -118,7 +118,7 @@
                    n="27"/><gap reason="illegible" quantity="4" unit="character"/> ca tā<choice><sic>ṇ</sic><corr>n</corr></choice>y eva narake vase<unclear>t</unclear> bahubhir vvasudhā bhu<unclear>ktā</unclear> rājabhis sagarādibhiḥ <unclear>yasya</unclear><lb
                    n="28"/><gap reason="illegible" quantity="2" unit="character"/> <gap reason="illegible" quantity="2" unit="character"/> <gap reason="illegible" quantity="2" unit="character"/>ḥ tasya tasya tadā phalam iti <g type="dandaHooked"/><g type="ddandaPlain">.</g> svahasto mama mahāpratī<unclear>hāra</unclear>mahā<unclear>daṇḍa</unclear><lb
                    n="29" break="no"/><gap reason="illegible" quantity="6" unit="character"/><unclear>rttā</unclear>kṛtikamahāsāmantamahārājaśrīdhruvasenasya <g type="dandaHooked">.</g><g type="ddandaPlain">.</g> dūtako rājasthānīya<unclear>bhaṭṭiḥ</unclear><lb
-                   n="30"/><gap reason="illegible" quantity="3" unit="character"/> ki<unclear>kka</unclear>ken<unclear>eti</unclear> <abbr>saṁ</abbr> <num value="217"><g type="numeral">200</g> <g type="numeral">10</g> 7</num> <unclear>Āśva</unclear>yuja <abbr><unclear>ba</unclear></abbr> <num value="13"><unclear><g type="numeral">10</g></unclear> 3</num> <g type="dandaHooked"/><g type="ddandaPlain">.</g> 
+                   n="30"/><gap reason="illegible" quantity="3" unit="character"/> ki<unclear>kka</unclear>ken<unclear>eti</unclear> <abbr>saṁ</abbr> <num value="217">200 10 7</num> <unclear>Āśva</unclear>yuja <abbr><unclear>ba</unclear></abbr> <num value="13"><unclear>10</unclear> 3</num> <g type="dandaHooked"/><g type="ddandaPlain">.</g> 
             </p>                           
          </div>
          <div type="apparatus">

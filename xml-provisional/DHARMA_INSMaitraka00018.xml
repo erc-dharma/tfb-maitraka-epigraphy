@@ -2,8 +2,8 @@
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -115,7 +115,7 @@
                    n="24"/>phalaṁ ṣaṣṭivarṣasahasrāṇi svargge modati bhūmidāḥ Ācche<supplied reason="omitted">t</supplied>tā <surplus>c</surplus>cānumant<choice><sic>a</sic><corr>ā</corr></choice> c<choice><sic>ā</sic><corr>a</corr></choice> <choice><sic>n</sic><corr>t</corr></choice>āny eva narake v<choice><sic>e</sic><corr>a</corr></choice>seT<lb
                    n="25"/>vi<choice><sic>ch</sic><corr>ndh</corr></choice>yāṭavīṣv atoyāsu śu<choice><sic>s</sic><corr>ṣ</corr></choice>kakoṭaravāsi<surplus>ha</surplus>na<unclear>ḥ</unclear> kṛṣṇāh<choice><sic>ā</sic><corr>a</corr></choice>yo hi jāyante bh<choice><sic>u</sic><corr>ū</corr></choice>mid<choice><sic>a</sic><corr>ā</corr></choice>yaṁ haranti ye <g type="ddandaPlain">.</g><lb
                    n="26"/>svahasto mama mahāsāmantamahārājadhruvasenasya dūtako rudradharaḥ likhitaṁ kikakka<lb
-                   n="27"/><abbr>saṁ</abbr> <num value="210"><g type="numeral">200</g> 10</num> Ā<choice><sic>ñc</sic><corr>śv</corr></choice>ayuja <abbr><choice><sic>j</sic><corr>b</corr></choice>a</abbr> <num value="5"/> 
+                   n="27"/><abbr>saṁ</abbr> <num value="210">200 10</num> Ā<choice><sic>ñc</sic><corr>śv</corr></choice>ayuja <abbr><choice><sic>j</sic><corr>b</corr></choice>a</abbr> <num value="5"/> 
             </p>                           
          </div>
          <div type="apparatus">

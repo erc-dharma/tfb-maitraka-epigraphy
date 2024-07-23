@@ -2,8 +2,8 @@
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -101,7 +101,7 @@
                    n="12"/>bhū<unclear>m</unclear>iḥ tasya tasya tadā phalam <g type="ddandaPlain">.</g> yānīha dāridr<supplied reason="omitted">y</supplied>abhayān narendrair ddhanāni dharmmāyatanīkṛtāni nirmmālyav<unclear>ā</unclear>ānta<lb
                    n="13" break="no"/>pratimāni tāni ko nāma sādhuḫ punar ādadīta <g type="ddandaPlain">.</g> lakṣmīniketaṁ yadapāśrayeṇa prāpto si <unclear>lokābhimataṁ</unclear><lb 
                    n="14"/><unclear>n</unclear>ṛpa<unclear>tva</unclear><supplied reason="omitted">ṁ</supplied> tāny eva puṇyāny abhiva<unclear>rddhayethā</unclear> na karśaṇīyo hy upakāripakṣa Iti //<lb
-                   n="15"/>svamukhājñā // likhitaṁ sāndhivigrahādhikaraṇādhikṛtaskandabhaṭeneti <g type="dashPlain">~</g> <abbr>saṁ</abbr> <num value="248"><g type="numeral">200</g> <g type="numeral">40</g> 8</num> <unclear>Ā</unclear>śvayuja <abbr>ba</abbr> <abbr>di</abbr> <num value="14"><g type="numeral">10</g> <unclear>4</unclear></num>
+                   n="15"/>svamukhājñā // likhitaṁ sāndhivigrahādhikaraṇādhikṛtaskandabhaṭeneti <g type="dashPlain">~</g> <abbr>saṁ</abbr> <num value="248">200 40 8</num> <unclear>Ā</unclear>śvayuja <abbr>ba</abbr> <abbr>di</abbr> <num value="14">10 <unclear>4</unclear></num>
             </p>                        
          </div>
          <div type="apparatus">

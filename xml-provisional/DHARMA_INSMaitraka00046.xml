@@ -2,8 +2,8 @@
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -101,7 +101,7 @@
                    n="12" break="no"/><gap reason="illegible" quantity="3" unit="character"/>nīha dāridryabhayān narendrair ddhanāni dharmmāyatanīkṛtāni nirbbhuktamālyapratimā<gap reason="illegible" quantity="4" unit="character"/><lb
                    n="13" break="no"/><gap reason="illegible" quantity="4" unit="character"/>ḫ punarādadīta <g type="ddandaPlain">.</g> <choice><sic>p</sic><corr>ṣ</corr></choice>a<choice><sic>p</sic><corr>ṣ</corr></choice>ṭiṃ varṣasahasrāṇi svargge mo<choice><sic>deta</sic><corr>dati</corr></choice> bhūmidaḥ Ā<gap reason="illegible" quantity="6" unit="character"/><lb
                    n="14" break="no"/><gap reason="illegible" quantity="4" unit="character"/><unclear>narakeva</unclear>seT <g type="ddandaPlain">.</g> dūtakaś cātra bhaṭṭādityayaśāḥ <g type="ddandaPlain">.</g> likhitaṁ sandhi<gap reason="illegible" quantity="8" unit="character"/><lb
-                   n="15" break="no"/><gap reason="illegible" quantity="9" unit="character"/><abbr>saṁ</abbr> <num value="286"><g type="numeral">200</g> <g type="numeral">80</g> 6</num> śrāvaṇa <abbr>ba</abbr> <num value="7">7</num> <g type="ddandaPlain">.</g> <g type="spiralL"/> <g type="ddandaPlain">.</g> sva<gap reason="illegible" quantity="4" unit="character"/> 
+                   n="15" break="no"/><gap reason="illegible" quantity="9" unit="character"/><abbr>saṁ</abbr> <num value="286">200 80 6</num> śrāvaṇa <abbr>ba</abbr> <num value="7">7</num> <g type="ddandaPlain">.</g> <g type="spiralL"/> <g type="ddandaPlain">.</g> sva<gap reason="illegible" quantity="4" unit="character"/> 
             </p>                           
          </div>
          <div type="apparatus">

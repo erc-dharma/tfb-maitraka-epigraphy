@@ -2,8 +2,8 @@
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -121,7 +121,7 @@
                    n="30"/>tāny eva narake vase<unclear>T</unclear> v<unclear>i</unclear>ndhyāṭavīṣv <unclear>atoyāsu</unclear> śuṣkakoṭ<unclear>a</unclear>ravāsina<unclear>ḥ</unclear> kṛṣṇāhayo hi jāyante <unclear>bhū</unclear>midāya<supplied reason="omitted">ṁ</supplied> haran<supplied reason="omitted">t</supplied>i <choice><sic>ra</sic><corr>ye</corr></choice> <unclear><g type="dashDouble">~</g></unclear> pūrvvadattāṁ <unclear>dvijā</unclear><lb
                    n="31" break="no"/>tibhyo yatnād rakṣa <unclear>yu</unclear>dhiṣṭhira mahī<supplied reason="omitted">ṁ</supplied> mah<unclear>ī</unclear>matāṁ śreṣ<unclear>ṭh</unclear>a dānāc chreyo nupālanaṁ bahubhir <unclear>vva</unclear>sudhā bhuktā rājabhiḥ sagarādibhi<unclear>ḥ</unclear> yasya <unclear>yasya</unclear><lb
                    n="32"/>yadā bhūmi<unclear>ḥ</unclear> tasya tasya tadā phala<unclear>ṁ <g type="ddandaPlain">.</g></unclear> yānīha dāridrabhayān narendrair <unclear>dha</unclear>nāni dharmmāyatanīkṛtāni nirmmālyavāntapra<unclear>timāni</unclear><lb
-                   n="33"/><unclear>tā</unclear>ni ko nāma sādh<unclear>u</unclear>ḥ p<unclear>u</unclear>nar ādadīta iti <g type="ddandaPlain">.</g> likhi<unclear>taṁ sandh</unclear>ivigrahādhi<unclear>kṛta</unclear>skandabhaṭena <g type="ddandaPlain">.</g> <abbr>saṁ</abbr> <num value="252"><g type="numeral">200</g> <g type="numeral">50</g> 2</num> vaiśākha <abbr>ba</abbr> <num value="15"><g type="numeral">10</g> 5</num><lb
+                   n="33"/><unclear>tā</unclear>ni ko nāma sādh<unclear>u</unclear>ḥ p<unclear>u</unclear>nar ādadīta iti <g type="ddandaPlain">.</g> likhi<unclear>taṁ sandh</unclear>ivigrahādhi<unclear>kṛta</unclear>skandabhaṭena <g type="ddandaPlain">.</g> <abbr>saṁ</abbr> <num value="252">200 50 2</num> vaiśākha <abbr>ba</abbr> <num value="15">10 5</num><lb
                    n="34"/>sva<unclear>ha</unclear>sto mama mahārājaśrī<surplus>ḥ</surplus>dharase<unclear>na</unclear>sya <unclear><g type="ddandaPlain">.</g></unclear> <abbr>dū</abbr> cibbira<supplied reason="omitted">ḥ</supplied> 
             </p>                           
          </div>

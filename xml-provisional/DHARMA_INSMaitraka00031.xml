@@ -2,8 +2,8 @@
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -124,7 +124,7 @@
                    n="33"/>ṣaṣṭiṁ varṣasahasrāṇi svargge tiṣṭhati bhūmidaḥ Ācchettā cānumantā ca <g type="dandaPlain">.</g> tāny eva narake vaseT <g type="ddandaPlain">.</g> pūrvvadattāṁ<lb
                    n="34"/>dvijātibhyo yatnād rakṣa yudhiṣṭhira <g type="ddandaPlain">.</g> mahī<supplied reason="omitted">ṁ</supplied> mahimatāṁ śreṣṭha <g type="ddandaPlain">.</g> dānāc chreyo nupālanam <g type="ddandaPlain">.</g> bahubhir vvasudhā bhuktā<lb
                    n="35"/>rājabhis sagarādibhiḥ <g type="ddandaPlain">.</g> yasya yasya yadā bhūmiḥ tasya tasya tadā phalam iti <g type="dashDouble">~</g> likhitaṁ sandhivigrahikaskandabhaṭena <g type="ddandaPlain">.</g><lb
-                   n="36"/>svahasto mama mahārājaśrīdharasenasya <g type="ddandaPlain">.</g> <abbr>dū</abbr> cirbbira<supplied reason="omitted">ḥ</supplied> <g type="ddandaPlain">.</g> <abbr>saṁ</abbr> <num value="252"><g type="numeral">200</g> <g type="numeral">50</g> 2</num> vaiśākha <abbr>ba</abbr> <num value="15"><g type="numeral">10</g> 5</num> 
+                   n="36"/>svahasto mama mahārājaśrīdharasenasya <g type="ddandaPlain">.</g> <abbr>dū</abbr> cirbbira<supplied reason="omitted">ḥ</supplied> <g type="ddandaPlain">.</g> <abbr>saṁ</abbr> <num value="252">200 50 2</num> vaiśākha <abbr>ba</abbr> <num value="15">10 5</num> 
             </p>                           
          </div>
          <div type="apparatus">
