@@ -4,8 +4,8 @@
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Bhavnagar Plates of Dhruvasena I, [Valabhī] year 207, Kārttika śu. 7</title>
@@ -109,7 +109,7 @@
                    n="22"/>Iyam asmadanumatir anumant<choice><sic>ā</sic><corr>ā</corr></choice>vyā yaś cācchindyād ācchidyamānaṁ vānumodet sa pa<unclear>ṁ</unclear>cabhir mmahāp<choice><sic>a</sic><corr>ā</corr></choice>a<lb
                    n="23" break="no"/>takais sopapātakais saṁyuktas syād <choice><sic>i</sic><corr>a</corr></choice>pi cātra vyāsagītaḥ <choice><sic>l</sic><corr>ś</corr></choice>lloko bhavati ṣaṣṭiṁ var<choice><sic>y</sic><corr>ṣ</corr></choice>yasahasrā<lb 
                    n="24" break="no"/>ṇi s<unclear>v</unclear>argge modati bhūmidaḥ [/*] ācchettā cānumantā ca tāny eva narake vased iti<lb 
-                   n="25"/>svahasto mama mahārājadhruvasenasya dūtakaḥ pratīhāramammakaḥ likhitaṁ kikkakena <g type="dashPlain">~</g><lb 
+                   n="25"/>svahasto mama mahārājadhruvasenasya dūtakaḥ pratīhāramammakaḥ likhitaṁ kikkakena <g type="dashPlain"/><lb 
                    n="26"/>saṁ 200 7 kārttika śu 7               
             </p>
          </div>

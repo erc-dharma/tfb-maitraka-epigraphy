@@ -2,8 +2,8 @@
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<!--xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?-->
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -122,7 +122,7 @@
                    n="31" break="no"/><unclear>n</unclear>irbbharacittavṛttibhir mmanur iva svayam abhyupapannaḥ prakṛtibhir adhigatakalākalāpaḥ kāntimān nir<unclear>vṛ</unclear>tihetur akalaṅkaḥ<lb
                    n="32"/>kumudanāthaḥ prājyapratāpasthagitadigantartarālapradhvansitadhvāntarāśis satatoditas savitā prakṛtibhyaḫ paraṁ pratyayam a<lb
                    n="33" break="no"/><supplied reason="omitted">r</supplied>tthavantam atibahutithaprayojanānubandham <choice><sic>a</sic><corr>ā</corr></choice>gamaparipūrṇṇa<supplied reason="omitted">ṁ</supplied> vidadhānaḥ <choice><sic>ṣ</sic><corr>s</corr></choice>andhivigrahasamāsaniścayanipuṇaḥ sthān<choice><sic>a</sic><corr>e</corr></choice> nu<lb
-                   n="34" break="no"/>r<choice><sic>u</sic><corr>ū</corr></choice>pam ādeśaṁ dadad guṇavṛddhividhānajanitasaṁskāras s<choice><sic>a</sic><corr>ā</corr></choice>dhūnā<choice><sic>ṁ</sic></choice> rājyasālāturīyatantrayor ubhayor ap<choice><sic>a</sic><corr>i</corr></choice> niṣṇātaḥ<lb
+                   n="34" break="no"/>r<choice><sic>u</sic><corr>ū</corr></choice>pam ādeśaṁ dadad guṇavṛddhividhānajanitasaṁskāras s<choice><sic>a</sic><corr>ā</corr></choice>dhūnāṁ rājyasālāturīyatantrayor ubhayor ap<choice><sic>a</sic><corr>i</corr></choice> niṣṇātaḥ<lb
                    n="35"/>prakṛṣṭavikramo pi karuṇāmṛduhṛdayaḥ śrutavān apy agarvvitaḥ kānto pi praśamī sthirasauhṛdayyo pi nirasitā do<lb
                    n="36" break="no"/>ṣa<unclear>va</unclear>tām udayasamayasamupajanitajanatānurāgaparipihitabhuvanasamartthitaprathitabālādityadvi<lb
                    n="37" break="no"/>t<unclear>ī</unclear>yanāmā paramamāheśvaraḥ śrīdhruvasenaẖ kuśalī sarvvān eva yathāsambadhyamānakān sam<choice><sic>a</sic><corr>ā</corr></choice>jñāp<unclear>a</unclear>yaty astu va<lb
