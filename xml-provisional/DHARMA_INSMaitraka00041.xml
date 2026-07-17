@@ -10,14 +10,14 @@
          <titleStmt>
             <title>Watson Museum plates (Thānaka grant) of Dharasena II, [Valabhī] year 2[70], Bhādrapada ba. [2?]</title>
             <respStmt>
-               <resp>EpiDoc Encoding</resp>
+               <resp key="contributor">EpiDoc Encoding</resp>
                <persName ref="part:ansc">
                   <forename>Annette</forename>
                   <surname>Schmiedchen</surname>
                </persName>
             </respStmt>
             <respStmt>
-               <resp>intellectual authorship of edition</resp>
+               <resp key="creator">intellectual authorship of edition</resp>
                <persName>
                   <forename>Annette</forename>
                   <surname>Schmiedchen</surname>
