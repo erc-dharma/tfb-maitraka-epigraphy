@@ -11,18 +11,18 @@
             <title>Valabhipur Plate of Śīlāditya III, [Valabhī] year 343, dvi-Āṣāḍha ba. ? (only plate 2; fragmentary)
             </title>
             <respStmt>
-               <resp key="contributor">EpiDoc Encoding</resp>
+               <resp key="contributor"></resp>
+               <persName>
+                  <forename>D. B.</forename>
+                  <surname>Diskalkar</surname>
+               </persName>
+               </respStmt>
+            <respStmt>
+               <resp key="creator"></resp>
                <persName ref="part:ansc">
                   <forename>Annette</forename>
                   <surname>Schmiedchen</surname>
                </persName>
-            </respStmt>
-            <respStmt>
-               <resp key="creator">intellectual authorship of edition</resp>
-               <persName>
-                  <forename>D. B.</forename>
-                  <surname>Diskalkar</surname>
-                  </persName>
             </respStmt>
          </titleStmt>
          <publicationStmt>
