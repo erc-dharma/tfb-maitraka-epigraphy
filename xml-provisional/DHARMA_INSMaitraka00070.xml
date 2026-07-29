@@ -18,7 +18,7 @@
             </respStmt>
             <respStmt>
                <resp key="creator">intellectual authorship of edition</resp>
-               <persName>
+               <persName ref="part:ansc">
                   <forename>Annette</forename>
                   <surname>Schmiedchen</surname>
                   </persName>
