@@ -117,7 +117,7 @@
                <listApp><!-- one <app> for each apparatus entry -->
                   <app loc="line"><!-- update the value of @loc.-->
                      <lem><!-- fill in a lemma here --></lem>
-                     <rdg source="bib:Schmiedchen2014_01"><!-- update the @source value, fill in variant reading here --></rdg>
+                     <rdg source="bib:Sukthankar1923-1924_02"><!-- update the @source value, fill in variant reading here --></rdg>
                   </app>
                </listApp>         
          </div>
@@ -130,9 +130,9 @@
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
 	<!-- NB: you are encouraged to experiment with encoding bibliography to the extent you have the bibliographic data available, but it is not mandatory at this stage, because our bibliographic data are normally assembled along with other metadata in spreadsheets and will be imported from there into our xml files by a semi-automated process at a later stage. -->
-           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+           <p>Partly edited by Vishnu Sitaram Sukthankar with complete set of estampages and with translation of the grant portion (<bibl><ptr target="bib:Sukthankar1923-1924_02"/><citedRange unit="item">Postscript</citedRange></bibl>).</p>
            <listBibl type="primary">
-				<bibl n="S2014"><ptr target="bib:Schmiedchen2014_01"/></bibl>
+				<bibl n="VSS"><ptr target="bib:Sukthankar1923-1924_02"/><citedRange unit="item">A</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">
               <bibl/><!-- one <bibl/> per item of secondary bibliography -->
