@@ -10,21 +10,21 @@
          <titleStmt>
             <title>Palitana-Valabhipur plates of Śīlāditya I, [Valabhī] year [286], [Vaiśākha ba. 6]</title>
             <respStmt>
-               <resp key="contributor">EpiDoc Encoding</resp>
+               <resp key="contributor"></resp>
                <persName ref="part:ansc">
                   <forename>Annette</forename>
                   <surname>Schmiedchen</surname>
+               <persName>
+                     <forename>R. G.</forename>
+                     <surname>Bhandarkar</surname>
+                  </persName>
                </persName>
             </respStmt>
             <respStmt>
-               <resp key="creator">intellectual authorship of edition</resp>
+               <resp key="creator"></resp>
                <persName ref="part:ansc">
                   <forename>Annette</forename>
                   <surname>Schmiedchen</surname>
-               </persName>
-               <persName>
-                  <forename>R. G.</forename>
-                  <surname>Bhandarkar</surname>
                </persName>
             </respStmt>
          </titleStmt>
