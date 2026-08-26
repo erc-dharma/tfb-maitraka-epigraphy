@@ -10,18 +10,18 @@
          <titleStmt>
             <title>Kheda plates of Dharasena IV, [Valabhī] year 330, dvi-Mārgaśira śu. 2</title>
             <respStmt>
-               <resp key="contributor">EpiDoc Encoding</resp>
+               <resp key="contributor"></resp>
+               <persName>
+                  <forename>Johann Georg</forename>
+                  <surname>Bühler</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp key="creator"></resp>
                <persName ref="part:ansc">
                   <forename>Annette</forename>
                   <surname>Schmiedchen</surname>
                </persName>
-            </respStmt>
-            <respStmt>
-               <resp key="creator">intellectual authorship of edition</resp>
-               <persName>
-                  <forename>Johann Georg</forename>
-                  <surname>Bühler</surname>
-                  </persName>
             </respStmt>
          </titleStmt>
          <publicationStmt>
