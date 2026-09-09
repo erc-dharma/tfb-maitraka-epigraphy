@@ -10,20 +10,20 @@
          <titleStmt>
             <title>Kheda plates of Dharasena IV, [Valabhī] year 330, dvi-Mārgaśira śu. 2</title>
             <respStmt>
-               <resp key="contributor"></resp>
+               <resp key="contributor"/>
                <persName>
                   <forename>Johann Georg</forename>
                   <surname>Bühler</surname>
                </persName>
             </respStmt>
             <respStmt>
-               <resp key="creator"></resp>
+               <resp key="creator"/>
                <persName ref="part:ansc">
                   <forename>Annette</forename>
                   <surname>Schmiedchen</surname>
                </persName>
             </respStmt>
-         </titleStmt>
+         <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
          <publicationStmt>
             <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
             <pubPlace>Berlin</pubPlace>
