@@ -137,8 +137,8 @@
            <p>First edited twice by Hariprasad G. Shastri; no translation (<bibl><ptr target="bib:Shastri1960_01"/></bibl>, with rather low-quality photographs; <bibl><ptr target="bib:Shastri1960_02"/></bibl>, without photographs). Again edited by Sircar and Sundaram with estampages; no translation (<bibl><ptr target="bib:Sircar+Sundaram1963-1964_01"/></bibl>). Re-edited and encoded by Annette Schmiedchen on the basis of estampages and photographs of the original.</p>
         	<listBibl type="primary">
 				<bibl n="HGS1"><ptr target="bib:Shastri1960_01"/></bibl>
-        	 <bibl n="HGS2"><ptr target="bib:Shastri1960_02"/></bibl>
-            <bibl n="DCSJS"><ptr target="bib:Sircar+Sundaram1963-1964_01"/></bibl>
+        	                        <bibl n="HGS2"><ptr target="bib:Shastri1960_02"/></bibl>
+                                          <bibl n="DCSJS"><ptr target="bib:Sircar+Sundaram1963-1964_01"/></bibl>
 			</listBibl>
            <listBibl type="secondary">
               <bibl/><!-- one <bibl/> per item of secondary bibliography -->
