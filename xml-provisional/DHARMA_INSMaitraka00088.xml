@@ -10,14 +10,7 @@
          <titleStmt>
             <title>Bhavnagar plates of Śīlāditya III, [Valabhī] year 348, Pauṣa śuddha 2</title>
             <respStmt>
-               <resp key="contributor">EpiDoc Encoding</resp>
-               <persName ref="part:ansc">
-                  <forename>Annette</forename>
-                  <surname>Schmiedchen</surname>
-               </persName>
-            </respStmt>
-            <respStmt>
-               <resp key="creator">intellectual authorship of edition</resp>
+               <resp key="creator"></resp>
                <persName ref="part:ansc">
                   <forename>Annette</forename>
                   <surname>Schmiedchen</surname>
@@ -154,10 +147,10 @@
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
 	<!-- NB: you are encouraged to experiment with encoding bibliography to the extent you have the bibliographic data available, but it is not mandatory at this stage, because our bibliographic data are normally assembled along with other metadata in spreadsheets and will be imported from there into our xml files by a semi-automated process at a later stage. -->
-           <p>Lines 1 to 26 of the first plate first edited in a rather faulty way by P. Anderson with an eye-copy and a translation (<bibl><ptr target="bib:Anderson1847-1851_01"/></bibl>). Grant portion of the second plate first edited by G. V. Acharya; neither estampage nor translation (<bibl><ptr target="bib:Acharya1925_01"/><citedRange unit="item">6</citedRange></bibl>). Fully edited by Annette Schmiedchen on the basis of photographs of the original.</p>
+           <p>Lines 1 to 26 of the first plate first edited in a rather faulty way by P. Anderson with an eye-copy and a translation (<bibl><ptr target="bib:Anderson1847-1851_01"/></bibl>). Grant portion of the second plate first edited by G. V. Acharya; neither estampage nor translation (<bibl><ptr target="bib:Acharya1925_01"/><citedRange unit="item">6</citedRange></bibl>). Fully edited and encoded by Annette Schmiedchen on the basis of photographs of the original.</p>
         	<listBibl type="primary">
 				<bibl n="PA"><ptr target="bib:Anderson1847-1851_01"/></bibl>
-        	 <bibl n="GVA"><ptr target="bib:Acharya1925_01"/><citedRange unit="item">6</citedRange></bibl>
+        	                        <bibl n="GVA"><ptr target="bib:Acharya1925_01"/><citedRange unit="item">6</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">
               <bibl/><!-- one <bibl/> per item of secondary bibliography -->
