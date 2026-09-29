@@ -142,7 +142,7 @@
            <p>First edited by Eugen Julius Theodor Hultzsch with estampages and translation of the grant portion in the introduction (<bibl><ptr target="bib:Hultzsch1902-1903_03"/></bibl>). Again edited by Hultzsch; no estampages (<bibl><ptr target="bib:Hultzsch1905-1906_07"/><citedRange unit="item">2</citedRange></bibl>). Re-edited and encoded by Annette Schmiedchen on the basis of the published estampages and, for the second plate, a photograph of the original.</p>
         	<listBibl type="primary">
 				<bibl n="EJTH1902-1903"><ptr target="bib:Hultzsch1902-1903_03"/></bibl>
-        	 <bibl n="EJTH1905-1906"><ptr target="bib:Hultzsch1905-1906_07"/><citedRange unit="item">2</citedRange></bibl>
+        	                        <bibl n="EJTH1905-1906"><ptr target="bib:Hultzsch1905-1906_07"/><citedRange unit="item">2</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">
               <bibl/><!-- one <bibl/> per item of secondary bibliography -->
