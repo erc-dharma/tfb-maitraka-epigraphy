@@ -118,7 +118,7 @@
            <p>First plate partly edited by V. S. Sukthankar with estampage; no translation (<bibl><ptr target="bib:Sukthankar1923-1924_02"/><citedRange unit="item">B</citedRange></bibl>). Second plate first edited by D. B. Diskalkar with estampage; no translation (<bibl><ptr target="bib:Diskalkar1927-1928_01"/></bibl>). Fully edited and encoded by Annette Schmiedchen on the basis of estampages and photographs of the original.</p>
         	<listBibl type="primary">
 				<bibl n="VSS"><ptr target="bib:Sukthankar1923-1924_02"/><citedRange unit="item">B</citedRange></bibl>
-        	 <bibl n="DBD"><ptr target="bib:Diskalkar1927-1928_01"/></bibl>
+        	                        <bibl n="DBD"><ptr target="bib:Diskalkar1927-1928_01"/></bibl>
 			</listBibl>
            <listBibl type="secondary">
               <bibl/><!-- one <bibl/> per item of secondary bibliography -->
