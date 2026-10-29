@@ -92,6 +92,7 @@
                <lb n="29"/>sāmantamahārājadhruvasenasya <g ref="sym:dash-double" type="punctuation">.</g> dūtakaḥ pratīhāramammakaḥ likhitaṁ kikkakena
                <lb n="30"/><abbr>saṁ</abbr> <num value="206">200 6</num> bhadrapada <abbr><unclear>ś</unclear>u</abbr> <num value="5">5</num>
             </p>
+            <pb n="2v"/>
          </div>
          <div type="apparatus">
                <listApp>
@@ -110,7 +111,7 @@
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
 	<!-- NB: you are encouraged to experiment with encoding bibliography to the extent you have the bibliographic data available, but it is not mandatory at this stage, because our bibliographic data are normally assembled along with other metadata in spreadsheets and will be imported from there into our xml files by a semi-automated process at a later stage. -->
-           <p>First edited by Sten Konow with estampages and translation (<bibl><ptr target="bib:Konow1911-1912_01"/><citedRange unit="item">1</citedRange></bibl>). Re-edited and encoded by Annette Schmiedchen on the basis of estampages and photographs of the original.</p>
+           <p>First edited by Sten Konow with estampages and translation (<bibl><ptr target="bib:Konow1911-1912_01"/><citedRange unit="item">1</citedRange></bibl>). Re-edited and encoded by Annette Schmiedchen on the basis of ASI estampages and photographs of the original from the Chhatrapati Shivaji Maharaj Vastu Sangrahalaya.</p>
            <listBibl type="primary">
 				<bibl n="SK"><ptr target="bib:Konow1911-1912_01"/><citedRange unit="item">1</citedRange></bibl>
 			</listBibl>
